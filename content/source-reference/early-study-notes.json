@@ -1,0 +1,862 @@
+{
+  "absolute-value": {
+    "term": "absolute value",
+    "ko": "절댓값",
+    "topic": "Numbers",
+    "definition": "The distance of a number from zero on the number line. Distance is never negative.",
+    "definitions": {
+      "ko": "수직선에서 어떤 수와 0 사이의 거리입니다. 거리는 음수가 될 수 없습니다."
+    },
+    "example": "|−4| = 4",
+    "explanation": "Both −4 and 4 are four steps from zero.",
+    "sentence": "Find the absolute value of negative four.",
+    "diagram": "absolute",
+    "related": [
+      "opposite-numbers",
+      "number-line"
+    ],
+    "aliases": [
+      "절댓값"
+    ]
+  },
+  "slope": {
+    "term": "slope",
+    "ko": "기울기",
+    "topic": "Algebra",
+    "definition": "How much a line rises or falls for each unit you move to the right.",
+    "definitions": {
+      "ko": "직선에서 오른쪽으로 한 단위 움직일 때 높이가 얼마나 변하는지를 나타냅니다."
+    },
+    "example": "slope = rise ÷ run = 2/3",
+    "explanation": "A rise of 2 and a run of 3 give a slope of 2/3.",
+    "sentence": "Find the slope of the line.",
+    "diagram": "slope",
+    "related": [
+      "linear-equation",
+      "coordinates"
+    ],
+    "aliases": [
+      "기울기"
+    ]
+  },
+  "area": {
+    "term": "area",
+    "ko": "넓이",
+    "topic": "Geometry",
+    "definition": "The amount of flat surface inside a shape, measured in square units.",
+    "definitions": {
+      "ko": "도형 내부의 평평한 부분이 차지하는 크기입니다. 제곱 단위로 나타냅니다."
+    },
+    "example": "A = 4 × 3 = 12",
+    "explanation": "A 4-by-3 rectangle has an area of 12 square units.",
+    "sentence": "Find the area of the rectangle.",
+    "diagram": "area",
+    "related": [
+      "perimeter",
+      "volume"
+    ],
+    "aliases": [
+      "넓이"
+    ]
+  },
+  "perimeter": {
+    "term": "perimeter",
+    "ko": "둘레",
+    "topic": "Geometry",
+    "definition": "The total distance around the outside of a shape.",
+    "definitions": {
+      "ko": "도형의 바깥쪽 경계를 따라 한 바퀴 돈 길이입니다."
+    },
+    "example": "P = 4 + 3 + 4 + 3 = 14",
+    "explanation": "Add the lengths of all the sides.",
+    "sentence": "Calculate the perimeter of the rectangle.",
+    "diagram": "",
+    "related": [
+      "area",
+      "rectangle"
+    ],
+    "aliases": [
+      "둘레"
+    ]
+  },
+  "pythagorean-theorem": {
+    "term": "Pythagorean Theorem",
+    "ko": "피타고라스 정리",
+    "topic": "Geometry",
+    "definition": "In a right triangle, the squares of the two shorter sides add up to the square of the longest side.",
+    "definitions": {
+      "ko": "직각삼각형에서 두 직각변 길이의 제곱의 합은 빗변 길이의 제곱과 같습니다."
+    },
+    "example": "3² + 4² = 5²",
+    "explanation": "The hypotenuse is the side opposite the right angle.",
+    "sentence": "Use the Pythagorean Theorem to find the missing length.",
+    "diagram": "triangle",
+    "related": [
+      "hypotenuse",
+      "right-triangle"
+    ],
+    "aliases": [
+      "피타고라스 정리"
+    ]
+  },
+  "variable": {
+    "term": "variable",
+    "ko": "변수",
+    "topic": "Algebra",
+    "definition": "A letter or symbol that represents a number that can change or is not yet known.",
+    "definitions": {
+      "ko": "변하거나 아직 모르는 수를 나타내는 문자나 기호입니다."
+    },
+    "example": "x + 3 = 8",
+    "explanation": "Here, x represents the unknown number 5.",
+    "sentence": "Let x represent the number of tickets.",
+    "diagram": "",
+    "related": [
+      "constant",
+      "equation"
+    ],
+    "aliases": [
+      "변수"
+    ]
+  },
+  "coefficient": {
+    "term": "coefficient",
+    "ko": "계수",
+    "topic": "Algebra",
+    "definition": "The numerical factor multiplying a variable in a term.",
+    "definitions": {
+      "ko": "한 항에서 변수에 곱해진 수입니다."
+    },
+    "example": "7x → coefficient: 7",
+    "explanation": "In −3y, the coefficient is −3.",
+    "sentence": "Identify the coefficient of x.",
+    "diagram": "",
+    "related": [
+      "term",
+      "variable"
+    ],
+    "aliases": [
+      "계수"
+    ]
+  },
+  "constant": {
+    "term": "constant",
+    "ko": "상수",
+    "topic": "Algebra",
+    "definition": "A value that stays the same. In an expression, a constant term has no variable.",
+    "definitions": {
+      "ko": "변하지 않는 값입니다. 식에서 상수항은 변수를 포함하지 않는 항입니다."
+    },
+    "example": "3x + 5 → constant term: 5",
+    "explanation": "The 5 does not depend on the value of x.",
+    "sentence": "Identify the constant term in the expression.",
+    "diagram": "",
+    "related": [
+      "variable",
+      "algebraic-expression"
+    ],
+    "aliases": [
+      "상수"
+    ]
+  },
+  "algebraic-expression": {
+    "term": "algebraic expression",
+    "ko": "대수식",
+    "topic": "Algebra",
+    "definition": "A mathematical phrase that contains a variable and may include numbers and operations.",
+    "definitions": {
+      "ko": "변수를 포함하며 수와 연산 기호로 이루어질 수 있는 수학적 표현입니다."
+    },
+    "example": "3x + 5",
+    "explanation": "An expression does not state that two quantities are equal.",
+    "sentence": "Write an expression for five more than three times a number.",
+    "diagram": "",
+    "related": [
+      "equation",
+      "variable"
+    ],
+    "aliases": [
+      "대수식"
+    ]
+  },
+  "equation": {
+    "term": "equation",
+    "ko": "방정식",
+    "topic": "Algebra",
+    "definition": "A mathematical statement that two expressions have the same value.",
+    "definitions": {
+      "ko": "두 식의 값이 같다는 것을 등호로 나타낸 문장입니다."
+    },
+    "example": "3x + 5 = 14",
+    "explanation": "The equals sign connects two expressions.",
+    "sentence": "Solve the equation for x.",
+    "diagram": "",
+    "related": [
+      "algebraic-expression",
+      "solve"
+    ],
+    "aliases": [
+      "방정식"
+    ]
+  },
+  "inequality": {
+    "term": "inequality",
+    "ko": "부등식",
+    "topic": "Algebra",
+    "definition": "A statement comparing quantities using symbols such as <, >, ≤, or ≥.",
+    "definitions": {
+      "ko": "<, >, ≤, ≥ 같은 기호로 두 양의 크기를 비교한 식입니다."
+    },
+    "example": "x + 2 > 5",
+    "explanation": "This is true when x is greater than 3.",
+    "sentence": "Graph the solution of the inequality.",
+    "diagram": "",
+    "related": [
+      "equation",
+      "number-line"
+    ],
+    "aliases": [
+      "부등식"
+    ]
+  },
+  "solve": {
+    "term": "solve",
+    "ko": "풀다",
+    "topic": "Directions",
+    "definition": "Find all values of the variable that make an equation or inequality true.",
+    "definitions": {
+      "ko": "방정식이나 부등식을 참이 되게 하는 변수의 값을 모두 찾는 것입니다."
+    },
+    "example": "x + 3 = 8 → x = 5",
+    "explanation": "Check by replacing x with 5.",
+    "sentence": "Solve for x.",
+    "diagram": "",
+    "related": [
+      "equation",
+      "evaluate"
+    ],
+    "aliases": [
+      "풀다"
+    ]
+  },
+  "evaluate": {
+    "term": "evaluate",
+    "ko": "값을 구하다",
+    "topic": "Directions",
+    "definition": "Find the value of an expression by doing the operations, using given variable values if needed.",
+    "definitions": {
+      "ko": "필요하면 변수에 주어진 값을 대입하고 계산하여 식의 값을 구하는 것입니다."
+    },
+    "example": "2x + 1, when x = 3 → 7",
+    "explanation": "Replace x with 3, then multiply and add.",
+    "sentence": "Evaluate the expression when x equals three.",
+    "diagram": "",
+    "related": [
+      "simplify",
+      "substitute"
+    ],
+    "aliases": [
+      "값을 구하다"
+    ]
+  },
+  "simplify": {
+    "term": "simplify",
+    "ko": "간단히 하다",
+    "topic": "Directions",
+    "definition": "Rewrite an expression in a simpler form without changing its value.",
+    "definitions": {
+      "ko": "식의 값을 바꾸지 않으면서 더 간단한 형태로 나타내는 것입니다."
+    },
+    "example": "3x + 2x = 5x",
+    "explanation": "Combine terms that have the same variable part.",
+    "sentence": "Simplify the expression.",
+    "diagram": "",
+    "related": [
+      "like-terms",
+      "evaluate"
+    ],
+    "aliases": [
+      "간단히 하다"
+    ]
+  },
+  "substitute": {
+    "term": "substitute",
+    "ko": "대입하다",
+    "topic": "Directions",
+    "definition": "Replace a variable or expression with an equal value or expression.",
+    "definitions": {
+      "ko": "변수나 식을 그와 같은 값 또는 식으로 바꾸어 넣는 것입니다."
+    },
+    "example": "y = 2x; x = 4 → y = 8",
+    "explanation": "Put 4 in place of x.",
+    "sentence": "Substitute four for x.",
+    "diagram": "",
+    "related": [
+      "evaluate",
+      "variable"
+    ],
+    "aliases": [
+      "대입하다"
+    ]
+  },
+  "estimate": {
+    "term": "estimate",
+    "ko": "어림하다",
+    "topic": "Directions",
+    "definition": "Find an approximate answer that is close enough for the situation.",
+    "definitions": {
+      "ko": "상황에 맞게 실제 값과 가까운 대략적인 답을 구하는 것입니다."
+    },
+    "example": "49 × 6 ≈ 50 × 6 = 300",
+    "explanation": "The exact answer is 294.",
+    "sentence": "Estimate the product before you calculate.",
+    "diagram": "",
+    "related": [
+      "rounding",
+      "product"
+    ],
+    "aliases": [
+      "어림하다"
+    ]
+  },
+  "fraction": {
+    "term": "fraction",
+    "ko": "분수",
+    "topic": "Numbers",
+    "definition": "A number written as one quantity divided by another, with a nonzero denominator.",
+    "definitions": {
+      "ko": "분모가 0이 아닌 두 수의 나눗셈으로 나타낸 수입니다."
+    },
+    "example": "3/4",
+    "explanation": "Three fourths means three of four equal parts of one whole.",
+    "sentence": "Shade three fourths of the rectangle.",
+    "diagram": "",
+    "related": [
+      "numerator",
+      "denominator"
+    ],
+    "aliases": [
+      "분수"
+    ]
+  },
+  "numerator": {
+    "term": "numerator",
+    "ko": "분자",
+    "topic": "Numbers",
+    "definition": "The number above the fraction bar. It tells how many parts of that size are counted.",
+    "definitions": {
+      "ko": "분수에서 가로선 위에 있는 수로, 해당 크기의 부분이 몇 개인지 나타냅니다."
+    },
+    "example": "3/4 → numerator: 3",
+    "explanation": "The numerator is 3.",
+    "sentence": "Identify the numerator.",
+    "diagram": "",
+    "related": [
+      "denominator",
+      "fraction"
+    ],
+    "aliases": [
+      "분자"
+    ]
+  },
+  "denominator": {
+    "term": "denominator",
+    "ko": "분모",
+    "topic": "Numbers",
+    "definition": "The number below the fraction bar. For parts of a whole, it tells how many equal parts make one whole.",
+    "definitions": {
+      "ko": "분수에서 가로선 아래에 있는 수입니다. 하나의 전체를 몇 개의 같은 부분으로 나누었는지 나타냅니다."
+    },
+    "example": "3/4 → denominator: 4",
+    "explanation": "Four equal parts make one whole.",
+    "sentence": "Find a common denominator.",
+    "diagram": "",
+    "related": [
+      "numerator",
+      "fraction"
+    ],
+    "aliases": [
+      "분모"
+    ]
+  },
+  "ratio": {
+    "term": "ratio",
+    "ko": "비",
+    "topic": "Numbers",
+    "definition": "A comparison of two quantities using division.",
+    "definitions": {
+      "ko": "나눗셈으로 두 양을 비교한 것입니다."
+    },
+    "example": "2 : 3",
+    "explanation": "Two red counters for every three blue counters.",
+    "sentence": "Write the ratio of red counters to blue counters.",
+    "diagram": "",
+    "related": [
+      "rate",
+      "proportion"
+    ],
+    "aliases": [
+      "비"
+    ]
+  },
+  "percent": {
+    "term": "percent",
+    "ko": "백분율",
+    "topic": "Numbers",
+    "definition": "A ratio expressed as a number out of one hundred.",
+    "definitions": {
+      "ko": "전체를 100으로 보았을 때의 비율입니다."
+    },
+    "example": "25% = 25/100 = 1/4",
+    "explanation": "Twenty-five percent is one fourth.",
+    "sentence": "Find twenty-five percent of eighty.",
+    "diagram": "",
+    "related": [
+      "ratio",
+      "fraction"
+    ],
+    "aliases": [
+      "백분율"
+    ]
+  },
+  "exponent": {
+    "term": "exponent",
+    "ko": "지수",
+    "topic": "Algebra",
+    "definition": "A number that tells the power of a base. A positive whole-number exponent tells how many copies of the base to multiply.",
+    "definitions": {
+      "ko": "밑을 몇 제곱하는지 나타내는 수입니다. 양의 정수 지수는 밑을 몇 번 곱하는지 나타냅니다."
+    },
+    "example": "2³ = 2 × 2 × 2 = 8",
+    "explanation": "The base is 2 and the exponent is 3.",
+    "sentence": "Write the expression using an exponent.",
+    "diagram": "",
+    "related": [
+      "power",
+      "square-root"
+    ],
+    "aliases": [
+      "지수"
+    ]
+  },
+  "square-root": {
+    "term": "square root",
+    "ko": "제곱근",
+    "topic": "Numbers",
+    "definition": "A number that gives the original number when multiplied by itself.",
+    "definitions": {
+      "ko": "어떤 수를 제곱했을 때 원래의 수가 되면 그 수를 원래 수의 제곱근이라고 합니다."
+    },
+    "example": "3² = 9 and (−3)² = 9",
+    "explanation": "Both 3 and −3 are square roots of 9. The symbol √9 means the principal root, 3.",
+    "sentence": "Find the principal square root of nine.",
+    "diagram": "",
+    "related": [
+      "perfect-square",
+      "exponent"
+    ],
+    "aliases": [
+      "제곱근"
+    ]
+  },
+  "integers": {
+    "term": "integers",
+    "ko": "정수",
+    "topic": "Numbers",
+    "definition": "The whole numbers and their opposites, including zero.",
+    "definitions": {
+      "ko": "양의 정수, 0, 음의 정수를 모두 포함하는 수의 집합입니다."
+    },
+    "example": "…, −2, −1, 0, 1, 2, …",
+    "explanation": "Fractions such as 1/2 are not integers.",
+    "sentence": "List all integers between negative three and three.",
+    "diagram": "",
+    "related": [
+      "whole-number",
+      "opposite-numbers"
+    ],
+    "aliases": [
+      "정수"
+    ]
+  },
+  "opposite-numbers": {
+    "term": "opposite numbers",
+    "ko": "서로 반대인 수",
+    "topic": "Numbers",
+    "definition": "Two numbers the same distance from zero but on opposite sides of zero.",
+    "definitions": {
+      "ko": "수직선에서 0과의 거리가 같고 0의 서로 반대쪽에 있는 두 수입니다."
+    },
+    "example": "−4 + 4 = 0",
+    "explanation": "Opposite numbers add to zero.",
+    "sentence": "Write the opposite of negative four.",
+    "diagram": "absolute",
+    "related": [
+      "absolute-value",
+      "integers"
+    ],
+    "aliases": [
+      "서로 반대인 수"
+    ]
+  },
+  "mean": {
+    "term": "mean",
+    "ko": "평균",
+    "topic": "Data & probability",
+    "definition": "The sum of all the values divided by the number of values.",
+    "definitions": {
+      "ko": "모든 값의 합을 값의 개수로 나눈 수입니다."
+    },
+    "example": "(2 + 4 + 9) ÷ 3 = 5",
+    "explanation": "In statistics, mean is a type of average.",
+    "sentence": "Find the mean of the data set.",
+    "diagram": "",
+    "related": [
+      "median",
+      "mode"
+    ],
+    "aliases": [
+      "평균"
+    ]
+  },
+  "median": {
+    "term": "median",
+    "ko": "중앙값",
+    "topic": "Data & probability",
+    "definition": "The middle value of ordered data, or the mean of the two middle values when there is an even number of values.",
+    "definitions": {
+      "ko": "자료를 크기순으로 나열했을 때 가운데 값입니다. 자료가 짝수 개면 가운데 두 값의 평균입니다."
+    },
+    "example": "2, 4, 9 → median: 4",
+    "explanation": "Order the data before finding the middle.",
+    "sentence": "Find the median of the data.",
+    "diagram": "",
+    "related": [
+      "mean",
+      "mode"
+    ],
+    "aliases": [
+      "중앙값"
+    ]
+  },
+  "mode": {
+    "term": "mode",
+    "ko": "최빈값",
+    "topic": "Data & probability",
+    "definition": "The value or values that occur most often in a data set.",
+    "definitions": {
+      "ko": "자료에서 가장 자주 나타나는 값입니다."
+    },
+    "example": "2, 3, 3, 7 → mode: 3",
+    "explanation": "A data set can have more than one mode.",
+    "sentence": "Identify the mode of the data set.",
+    "diagram": "",
+    "related": [
+      "mean",
+      "median"
+    ],
+    "aliases": [
+      "최빈값"
+    ]
+  },
+  "probability": {
+    "term": "probability",
+    "ko": "확률",
+    "topic": "Data & probability",
+    "definition": "A number from zero to one that describes how likely an event is.",
+    "definitions": {
+      "ko": "어떤 사건이 일어날 가능성을 0에서 1 사이의 수로 나타낸 것입니다."
+    },
+    "example": "P(heads) = 1/2",
+    "explanation": "For a fair coin, heads and tails are equally likely.",
+    "sentence": "Find the probability of rolling a six on a fair die.",
+    "diagram": "",
+    "related": [
+      "event",
+      "sample-space"
+    ],
+    "aliases": [
+      "확률"
+    ]
+  },
+  "coordinates": {
+    "term": "coordinates",
+    "ko": "좌표",
+    "topic": "Algebra",
+    "definition": "Numbers that locate a point in a coordinate system.",
+    "definitions": {
+      "ko": "좌표계에서 점의 위치를 나타내는 수입니다."
+    },
+    "example": "(3, 2)",
+    "explanation": "Start at the origin, move 3 units right, then 2 units up.",
+    "sentence": "Plot the point with coordinates three, two.",
+    "diagram": "",
+    "related": [
+      "ordered-pair",
+      "origin"
+    ],
+    "aliases": [
+      "좌표"
+    ]
+  },
+  "origin": {
+    "term": "origin",
+    "ko": "원점",
+    "topic": "Algebra",
+    "definition": "The point where the coordinate axes meet. In a two-dimensional coordinate plane it is (0, 0).",
+    "definitions": {
+      "ko": "좌표축이 만나는 점입니다. 평면 좌표계에서 좌표는 (0, 0)입니다."
+    },
+    "example": "O = (0, 0)",
+    "explanation": "Neither horizontal nor vertical movement is needed.",
+    "sentence": "Start at the origin.",
+    "diagram": "",
+    "related": [
+      "coordinates",
+      "ordered-pair"
+    ],
+    "aliases": [
+      "원점"
+    ]
+  },
+  "function": {
+    "term": "function",
+    "ko": "함수",
+    "topic": "Algebra",
+    "definition": "A relationship that assigns exactly one output to each input.",
+    "definitions": {
+      "ko": "각 입력에 출력이 정확히 하나씩 대응하는 관계입니다."
+    },
+    "example": "y = 2x + 1",
+    "explanation": "When the input x is 3, the output y is 7.",
+    "sentence": "Find the output of the function when x is three.",
+    "diagram": "",
+    "related": [
+      "variable",
+      "linear-function"
+    ],
+    "aliases": [
+      "함수"
+    ]
+  },
+  "linear-equation": {
+    "term": "linear equation",
+    "ko": "일차방정식",
+    "topic": "Algebra",
+    "definition": "An equation whose graph in two variables is a straight line.",
+    "definitions": {
+      "ko": "두 변수의 관계를 좌표평면에 나타냈을 때 그래프가 직선이 되는 방정식입니다."
+    },
+    "example": "y = 2x + 1",
+    "explanation": "The slope is 2 and the y-intercept is 1.",
+    "sentence": "Graph the linear equation.",
+    "diagram": "slope",
+    "related": [
+      "slope",
+      "y-intercept"
+    ],
+    "aliases": [
+      "일차방정식"
+    ]
+  },
+  "acute-angle": {
+    "term": "acute angle",
+    "ko": "예각",
+    "topic": "Geometry",
+    "definition": "An angle measuring more than zero degrees and less than ninety degrees.",
+    "definitions": {
+      "ko": "크기가 0도보다 크고 90도보다 작은 각입니다."
+    },
+    "example": "0° < angle < 90°",
+    "explanation": "An angle of 45° is acute.",
+    "sentence": "Classify the angle as acute, right, or obtuse.",
+    "diagram": "",
+    "related": [
+      "right-angle",
+      "obtuse-angle"
+    ],
+    "aliases": [
+      "예각"
+    ]
+  },
+  "right-angle": {
+    "term": "right angle",
+    "ko": "직각",
+    "topic": "Geometry",
+    "definition": "An angle that measures exactly ninety degrees.",
+    "definitions": {
+      "ko": "크기가 정확히 90도인 각입니다."
+    },
+    "example": "90°",
+    "explanation": "The corner of a rectangle is a right angle.",
+    "sentence": "Mark the right angle in the triangle.",
+    "diagram": "triangle",
+    "related": [
+      "acute-angle",
+      "perpendicular"
+    ],
+    "aliases": [
+      "직각"
+    ]
+  },
+  "parallel": {
+    "term": "parallel",
+    "ko": "평행",
+    "topic": "Geometry",
+    "definition": "Lines in the same plane that never meet, no matter how far they extend.",
+    "definitions": {
+      "ko": "같은 평면에서 아무리 길게 늘여도 만나지 않는 직선들의 관계입니다."
+    },
+    "example": "ℓ ∥ m",
+    "explanation": "Parallel lines stay the same distance apart.",
+    "sentence": "Identify the parallel lines.",
+    "diagram": "",
+    "related": [
+      "perpendicular",
+      "line"
+    ],
+    "aliases": [
+      "평행"
+    ]
+  },
+  "perpendicular": {
+    "term": "perpendicular",
+    "ko": "수직",
+    "topic": "Geometry",
+    "definition": "Lines that meet to form right angles.",
+    "definitions": {
+      "ko": "만나서 직각을 이루는 직선들의 관계입니다."
+    },
+    "example": "ℓ ⟂ m",
+    "explanation": "Perpendicular lines meet at 90°.",
+    "sentence": "Draw a line perpendicular to the given line.",
+    "diagram": "",
+    "related": [
+      "parallel",
+      "right-angle"
+    ],
+    "aliases": [
+      "수직"
+    ]
+  },
+  "volume": {
+    "term": "volume",
+    "ko": "부피",
+    "topic": "Geometry",
+    "definition": "The amount of three-dimensional space inside a solid, measured in cubic units.",
+    "definitions": {
+      "ko": "입체가 차지하는 공간의 크기이며 세제곱 단위로 나타냅니다."
+    },
+    "example": "V = 4 × 3 × 2 = 24",
+    "explanation": "A rectangular prism can have volume 24 cubic units.",
+    "sentence": "Find the volume of the rectangular prism.",
+    "diagram": "",
+    "related": [
+      "area",
+      "prism"
+    ],
+    "aliases": [
+      "부피"
+    ]
+  },
+  "product": {
+    "term": "product",
+    "ko": "곱",
+    "topic": "Numbers",
+    "definition": "The result of multiplying numbers or expressions.",
+    "definitions": {
+      "ko": "수나 식을 곱한 결과입니다."
+    },
+    "example": "6 × 4 = 24",
+    "explanation": "The product of 6 and 4 is 24.",
+    "sentence": "Find the product of six and four.",
+    "diagram": "",
+    "related": [
+      "quotient",
+      "sum"
+    ],
+    "aliases": [
+      "곱"
+    ]
+  },
+  "quotient": {
+    "term": "quotient",
+    "ko": "몫",
+    "topic": "Numbers",
+    "definition": "The result of dividing one quantity by another nonzero quantity.",
+    "definitions": {
+      "ko": "어떤 양을 0이 아닌 다른 양으로 나눈 결과입니다."
+    },
+    "example": "24 ÷ 6 = 4",
+    "explanation": "The quotient is 4.",
+    "sentence": "Find the quotient of twenty-four and six.",
+    "diagram": "",
+    "related": [
+      "product",
+      "divisor"
+    ],
+    "aliases": [
+      "몫"
+    ]
+  },
+  "sum": {
+    "term": "sum",
+    "ko": "합",
+    "topic": "Numbers",
+    "definition": "The result of adding numbers or expressions.",
+    "definitions": {
+      "ko": "수나 식을 더한 결과입니다."
+    },
+    "example": "7 + 5 = 12",
+    "explanation": "The sum of 7 and 5 is 12.",
+    "sentence": "Find the sum of seven and five.",
+    "diagram": "",
+    "related": [
+      "difference",
+      "product"
+    ],
+    "aliases": [
+      "합"
+    ]
+  },
+  "difference": {
+    "term": "difference",
+    "ko": "차",
+    "topic": "Numbers",
+    "definition": "The result of subtracting one quantity from another.",
+    "definitions": {
+      "ko": "한 양에서 다른 양을 뺀 결과입니다."
+    },
+    "example": "12 − 5 = 7",
+    "explanation": "The difference between 12 and 5 is 7.",
+    "sentence": "Find the difference between twelve and five.",
+    "diagram": "",
+    "related": [
+      "sum",
+      "subtraction"
+    ],
+    "aliases": [
+      "차"
+    ]
+  },
+  "like-terms": {
+    "term": "like terms",
+    "ko": "동류항",
+    "topic": "Algebra",
+    "definition": "Terms with the same variables raised to the same powers. Their coefficients may differ.",
+    "definitions": {
+      "ko": "문자와 각 문자의 지수가 같은 항입니다. 계수는 달라도 됩니다."
+    },
+    "example": "3x + 2x = 5x",
+    "explanation": "3x and 2x are like terms; 3x and 2x² are not.",
+    "sentence": "Combine like terms.",
+    "diagram": "",
+    "related": [
+      "coefficient",
+      "simplify"
+    ],
+    "aliases": [
+      "동류항"
+    ]
+  }
+}

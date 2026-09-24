@@ -1,0 +1,8 @@
+{
+  "appId": "com.bangacademy.mathdic",
+  "appName": "MathDic",
+  "webDir": "mobile-dist",
+  "backgroundColor": "#f7f9f7",
+  "ios": {"contentInset": "automatic"},
+  "android": {"allowMixedContent": false}
+}

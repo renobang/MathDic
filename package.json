@@ -1,0 +1,46 @@
+{
+  "name": "mathdic",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "deploy": "npm run deploy:dev",
+    "content": "node scripts/compile-content.mjs",
+    "dev:cloudflare": "npm run build:dev && wrangler dev --env development",
+    "build:dev": "node scripts/build.mjs development",
+    "build:production": "node scripts/build.mjs production",
+    "deploy:dev": "npm run content && npm run build:dev && npm run verify && wrangler deploy --env development",
+    "deploy:production": "npm run content && npm run build:production && npm run verify && wrangler deploy --env production",
+    "check:syntax": "node --check public/app.js && node --check public/sw.js && node --check src/worker.js && node --check public/admin/admin.js",
+    "check:offline": "node scripts/check-offline.mjs",
+    "verify": "npm run check:syntax && npm run check && npm run check:offline && npm run check:admin",
+    "check:admin": "node scripts/check-admin.mjs",
+    "build:mobile": "npm run content && node scripts/build-mobile.mjs",
+    "mobile:sync": "npm run build:mobile && cap sync",
+    "mobile:ios": "npm run mobile:sync && cap open ios",
+    "mobile:android": "npm run mobile:sync && cap open android",
+    "check:mobile": "node scripts/check-mobile.mjs"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.2",
+    "esbuild": "^0.28.2",
+    "wrangler": "^4.136.2"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/ios": "^8.5.2",
+    "@capacitor/preferences": "^8.0.1",
+    "@capacitor/share": "^8.0.2",
+    "jose": "^6.2.12",
+    "katex": "^0.18.7"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

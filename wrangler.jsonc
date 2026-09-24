@@ -1,0 +1,50 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mathdic-local",
+  "compatibility_date": "2026-09-22",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/admin*",
+      "/data/notes.json"
+    ]
+  },
+  "env": {
+    "development": {
+      "name": "mathdic-development",
+      "workers_dev": true,
+      "routes": [
+        {
+          "pattern": "dev.mathdic.bang-academy.com",
+          "custom_domain": true
+        }
+      ],
+      "vars": {
+        "ADMIN_HOST": "dev.mathdic.bang-academy.com",
+        "ADMIN_EMAIL": "renobang@gmail.com",
+        "ACCESS_TEAM_DOMAIN": "https://bang-academy-mathdic.cloudflareaccess.com",
+        "ACCESS_AUD": "178c803a921e6a5ebcb900f53943487693ed70f9a11eed5f041292d1489baf82"
+      },
+      "d1_databases": [
+        {
+          "binding": "CONTENT_DB",
+          "database_name": "mathdic-development-content",
+          "database_id": "a8110f3a-619f-4e0d-80d9-f37d7b061e7a",
+          "migrations_dir": "migrations"
+        }
+      ]
+    },
+    "production": {
+      "name": "mathdic-production",
+      "workers_dev": false,
+      "routes": [
+        {
+          "pattern": "mathdic.bang-academy.com",
+          "custom_domain": true
+        }
+      ]
+    }
+  },
+  "main": "src/worker.js"
+}

@@ -1,0 +1,433 @@
+absolute position|A location specified using an agreed reference system.|On a classroom map, the reading corner is four units east and one unit north of the origin. Give its location.|P=(4,1)|The ordered pair identifies one location without comparing it with another object.
+absolute value|How far a number is from zero, regardless of direction.|A submarine is at −7 meters relative to sea level. How far is it from sea level?|\lvert-7\rvert=7|Its distance is 7 meters. Distance does not carry a negative sign.
+acute angle|An angle between 0° and 90°.|A folding stand opens to 38°. Classify its angle.|0^\circ<38^\circ<90^\circ|The opening is smaller than a right angle, so it is acute.
+acute triangle|A triangle with all three angles smaller than 90°.|A triangular sign has angles 48°, 61°, and 71°. Classify it.|48^\circ+61^\circ+71^\circ=180^\circ|Every angle is acute, so the triangle is acute.
+addend|One of the quantities being added.|Mina walks 8 blocks before lunch and 6 afterward. Identify the addends.|8+6=14|The addends are 8 and 6; the total is 14 blocks.
+addition|Combining quantities to find their total.|A club has 13 returning members and 9 new members. How many members are there?|13+9=22|Combining the two groups gives 22 members.
+Addition Property of Equality|Adding the same quantity to both sides preserves an equation.|A number minus 6 equals 11. Add 6 to both sides.|x-6+6=11+6\quad\Rightarrow\quad x=17|Both sides increase equally, so the equation stays balanced.
+additive inverse|The number that makes a sum of zero when added to a given number.|A game score changes by −9. What change cancels it?|-9+9=0|The additive inverse of −9 is 9.
+adjacent leg|In a right triangle, the non-hypotenuse side touching a chosen acute angle.|For angle A, a right triangle has an adjacent leg of 12 and a hypotenuse of 13.|\cos A=\frac{12}{13}|The side of length 12 touches angle A and is not the hypotenuse.
+algebra|Mathematics that uses symbols to describe quantities and relationships.|Each notebook costs 4 dollars. Write the price of n notebooks.|C=4n|The variable n lets one rule describe many purchases.
+algebraic expression|A combination of variables, numbers, and operations that represents a quantity.|A bike rental costs 6 dollars plus 3 dollars per hour. Represent the cost for h hours.|6+3h|This expression gives a cost but does not itself state an equality.
+alternate angles|Angles on opposite sides of a transversal; alternate interior angles lie between the crossed lines.|Two parallel lines have alternate interior angles labeled 64° and x. Find x.|x=64^\circ|Parallel lines make alternate interior angles equal.
+angle|The opening between two rays with a common endpoint.|Two rays OA and OB meet at O. Name the angle.|\angle AOB|The middle letter names the vertex, O.
+angle bisector|A ray that divides an angle into two equal angles.|A ray bisects a 74° angle. Find each smaller angle.|74^\circ\div2=37^\circ|Both new angles measure 37°.
+angle of rotation|The amount a figure turns around a fixed point.|A pointer moves one quarter of a full turn counterclockwise.|\frac14\cdot360^\circ=90^\circ|The angle of rotation is 90° counterclockwise.
+Angle-Side-Angle (ASA)|Two triangles are congruent when two angles and their included side match.|Two triangles each have angles 42° and 68° with a 7 cm side between them.|\triangle ABC\cong\triangle DEF|Matching two angles and the side between them establishes ASA congruence.
+area|The size of a flat region, measured in square units.|A rectangular mural is 7 meters wide and 3 meters high. Find its area.|A=7\cdot3=21\text{ m}^2|Seven columns of three unit squares cover the mural.
+arithmetic sequence|A sequence with the same difference between consecutive terms.|A reading plan has daily totals 6, 11, 16, 21. What comes next?|a_n=6+5(n-1)\quad a_5=26|Add 5 each time; the next total is 26.
+arrangement|An ordering or placement of objects.|Three books labeled A, B, and C are placed on a shelf. Give two different arrangements.|ABC\ne BAC|Switching A and B changes the arrangement even though the books are the same.
+Associative Property of Addition|Regrouping addends leaves their total unchanged.|Group the convenient pair when adding 18, 2, and 7.|(18+2)+7=18+(2+7)=27|The grouping changes, but the order and total stay the same.
+Associative Property of Multiplication|Regrouping factors leaves their product unchanged.|Compute the number of stickers in 4 packs of 5 sheets of 3 stickers.|(4\cdot5)\cdot3=4\cdot(5\cdot3)=60|Either grouping counts the same 60 stickers.
+average|A value used to summarize a data set; in many contexts it means the arithmetic mean.|A student reads 12, 18, and 24 pages on three days. Find the mean daily amount.|\frac{12+18+24}{3}=18|The arithmetic average is 18 pages per day.
+axes|The reference lines used to organize a coordinate system.|A point is at (−2, 5). Identify the horizontal and vertical references.|x=-2,\quad y=5|The x-axis is horizontal and the y-axis is vertical.
+bar graph|A display that compares category amounts using bar lengths or heights.|A library lends 8 mysteries, 5 biographies, and 11 comics. Which bar is tallest?|11>8>5|The comics bar is tallest because 11 is the largest count.
+base (of a polygon)|A chosen side used with its perpendicular height to measure a polygon.|A triangle has a chosen base of 9 cm and height of 4 cm. Find its area.|A=\frac12(9)(4)=18\text{ cm}^2|The height must be perpendicular to the chosen base.
+base (of a solid)|A face used as a reference for a solid; a prism has two parallel, congruent bases.|A prism has base area 15 cm² and height 6 cm. Find its volume.|V=Bh=15\cdot6=90\text{ cm}^3|The base area is repeated through the prism's height.
+base (of an exponent)|The quantity being raised to a power.|In five to the third power, identify the base.|5^3=5\cdot5\cdot5=125|The base is 5; the exponent is 3.
+binary number system|A place-value system using only 0 and 1, with powers of two as place values.|Convert the binary number 1101 to decimal.|1101_2=8+4+0+1=13_{10}|Read the places as eights, fours, twos, and ones.
+binomial|A polynomial with exactly two nonzero terms after combining like terms.|Count the terms in an expression for ticket revenue minus a fixed fee.|9t-14|The terms 9t and −14 make this a binomial.
+bisect|To split something into two equal parts.|A 22 cm ribbon is bisected. Find the length of each piece.|22\div2=11\text{ cm}|Both pieces have equal length.
+boundary line|A line separating the two half-planes associated with a linear inequality.|What boundary belongs to y greater than 2x minus 3?|y=2x-3|Draw this line dashed because the inequality is strict.
+box-and-whisker plot|A display of a data set's minimum, quartiles, median, and maximum.|Use the summary minimum 2, Q1 5, median 8, Q3 11, maximum 15.|(2,5,8,11,15)|The box runs from 5 to 11, its middle mark is 8, and the whiskers reach 2 and 15.
+capacity|How much a container can hold.|A tank holds 18 liters. How many full 3-liter jugs can fill it?|18\div3=6|Six full jugs equal the tank's capacity.
+center|A reference point in the middle of a figure, such as the point equally distant from every point on a circle.|A circle is centered at (2, −1) with radius 4.|C=(2,-1),\quad r=4|Every point on the circle is 4 units from C.
+center of rotation|The fixed point around which a figure turns.|Rotate (3, 1) a half turn about the origin.|(3,1)\mapsto(-3,-1)|The origin stays fixed and is the center of rotation.
+centi-|A metric prefix meaning one hundredth.|Express 8 centimeters in meters.|8\text{ cm}=0.08\text{ m}|One centimeter is one hundredth of a meter.
+central angle|An angle whose vertex is the center of a circle.|A circular badge is divided into 8 equal sectors. Find one central angle.|360^\circ\div8=45^\circ|Each sector has a central angle of 45°.
+circle|The set of points in a plane at one fixed distance from a center.|A sensor reaches every point exactly 6 meters from its center. Describe the boundary.|r=6\text{ m}|The boundary is a circle of radius 6 meters.
+circle graph|A graph that uses sectors of a circle to show portions of a whole.|Nine of 30 students bike to school. Find the angle for their sector.|\frac9{30}\cdot360^\circ=108^\circ|The biking category occupies 30% of the circle.
+circumference|The distance around a circle.|A round planter has radius 5 meters. Find its exact circumference.|C=2\pi(5)=10\pi\text{ m}|Circumference measures the circular edge, not the enclosed area.
+circumscribed figure|An outer figure drawn around another with the specified sides or vertices touching it.|A square fits closely around a circle of radius 3 cm. Find the square's side.|s=2r=6\text{ cm}|Each side is tangent to the circle; the square circumscribes it.
+clockwise|Turning in the direction followed by the hands of a clock.|A pointer turns from straight up to straight right.|90^\circ\text{ clockwise}|Viewed on the page, this is a quarter turn to the right.
+clustering|A pattern where many data points gather in one region.|Seven measurements lie between 20 and 24, while one is 41.|20,21,21,22,23,23,24,41|The values cluster in the low twenties.
+coefficient|The numerical multiplier of a variable part in a term.|Identify the coefficient in a model for a temperature change.|-8t|The coefficient of t is −8.
+combination|A selection in which order does not matter.|Choose 2 representatives from 5 students. How many pairs are possible?|\binom52=10|Choosing Ana then Bo gives the same pair as choosing Bo then Ana.
+common denominator|A denominator shared by two or more fraction forms.|Rewrite one third and five sixths with a common denominator.|\frac13=\frac26,\quad\frac56=\frac56|Both equivalent fractions now have denominator 6.
+common factor|A whole-number factor shared by two or more integers.|Find the positive common factors of 18 and 30.|\{1,2,3,6\}|Each listed number divides both 18 and 30 with no remainder.
+common multiple|A number that is a multiple of each of the given integers.|Two bells ring every 4 and 6 minutes. Give a shared ringing time after the start.|4\cdot3=6\cdot2=12|Twelve is a common multiple of 4 and 6.
+Commutative Property of Addition|Switching the order of addends leaves the sum unchanged.|Compare 16 blue counters plus 7 red counters with the reverse order.|16+7=7+16=23|Reordering the groups does not change the total.
+Commutative Property of Multiplication|Switching the order of factors leaves the product unchanged.|Compare 6 rows of 8 chairs with 8 rows of 6.|6\cdot8=8\cdot6=48|Both arrangements contain 48 chairs.
+compatible numbers|Numbers chosen because they make a calculation easier to estimate mentally.|Estimate 238 divided by 6 using a nearby convenient number.|238\div6\approx240\div6=40|Using 240 gives a quick estimate close to the exact quotient.
+compensation|Adjusting a quantity to simplify a calculation, then correcting for that adjustment.|Find 398 plus 57 mentally.|398+57=400+57-2=455|Adding 2 made the first number easier; subtract 2 to compensate.
+complementary angles|Two angles whose measures add to 90°.|One of two complementary angles is 28°. Find the other.|90^\circ-28^\circ=62^\circ|The pair 28° and 62° fills a right angle.
+composite number|A positive integer greater than 1 with a factor other than 1 and itself.|Show that 35 is composite.|35=5\cdot7|The factors 5 and 7 show that 35 is not prime.
+compound event|An event made by combining two or more simpler events.|Roll a die and flip a coin. Give the outcome '4 and tails'.|(4,T)|The event combines a die result and a coin result.
+compound interest|Interest calculated on both the original principal and previously earned interest.|A 200-dollar deposit earns 5% annually for two years, compounded annually.|A=200(1.05)^2=220.50|The second year's interest is calculated on 210 dollars.
+compound statement|A statement made by joining simpler statements with logical words.|Join 'n is even' and 'n is greater than 10'.|p\land q|For n = 12, both parts and their conjunction are true.
+concave polygon|A polygon with at least one interior angle greater than 180°.|A polygon has an inward corner measuring 225°. Classify it.|225^\circ>180^\circ|The inward corner makes the polygon concave.
+conditional probability|The probability of an event after restricting attention to a given condition.|Of 12 students who bike, 9 wear helmets. Given that a student bikes, find the helmet probability.|P(H\mid B)=\frac9{12}=\frac34|Use only the biking students as the denominator.
+cone|A solid with a circular base that narrows to one vertex.|A cone has radius 2 cm and perpendicular height 9 cm. Find its volume.|V=\frac13\pi(2)^2(9)=12\pi\text{ cm}^3|The cone holds one third of the matching cylinder's volume.
+congruent|Having exactly the same shape and size.|Two triangles have corresponding side lengths 5, 7, and 9 cm.|\triangle ABC\cong\triangle DEF|Matching all three side lengths establishes congruence.
+conic projection|A map projection formed using a cone as the projection surface.|Imagine wrapping a cone around a globe so it touches latitude 40° N.|\phi=40^\circ\text{ N}|That latitude is a standard parallel where the cone touches the globe.
+conjunction|A logical 'and' statement, true only when both parts are true.|Let p mean '8 is even' and q mean '8 is prime'.|p\land q=\text{false}|The first part is true, but the second is false.
+constant|A value that does not change within a given situation.|A delivery fee is fixed at 7 dollars, plus 2 dollars per item.|C=2n+7|The constant term is 7.
+constant graph|A graph whose output stays the same as the input changes.|A machine always dispenses 250 milliliters. Graph the amount per use.|y=250|The graph is horizontal because every output is 250.
+constant of proportionality|The fixed multiplier in a proportional relationship.|Three meters of fabric cost 21 dollars. Find the constant price per meter.|k=\frac{21}{3}=7,\quad C=7m|The constant of proportionality is 7 dollars per meter.
+conversion factor|A ratio of equivalent measurements used to change units.|Convert 3.5 hours to minutes.|3.5\text{ h}\cdot\frac{60\text{ min}}{1\text{ h}}=210\text{ min}|The hour units cancel.
+convex polygon|A polygon with no inward corners; each interior angle is less than 180°.|A regular hexagon has interior angles of 120°. Classify it.|120^\circ<180^\circ|All its corners bend outward, so it is convex.
+coordinate plane, coordinate system|A framework of perpendicular number lines for locating points.|Locate a point two units left and four units up from the origin.|P=(-2,4)|The first coordinate gives horizontal position and the second gives vertical position.
+coordinates|Numbers that specify a position in a coordinate system.|A drone is 5 units east and 2 units south of its starting point.|(x,y)=(5,-2)|The coordinates record both direction and distance along each axis.
+corresponding angles (for lines)|Angles in matching positions where a transversal crosses two lines.|Two parallel lines have matching-position angles labeled 113° and x.|x=113^\circ|Corresponding angles are equal when the crossed lines are parallel.
+corresponding angles (in similar figures)|Angles occupying matching positions in similar figures.|In two similar triangles, angle A corresponds to angle D, and A is 52°.|\angle D=52^\circ|Similarity preserves corresponding angle measures.
+corresponding sides|Sides that match in position between related figures.|A small triangle's 4 cm side matches a 10 cm side in a similar triangle.|k=\frac{10}{4}=2.5|All corresponding side lengths have the same scale factor, 2.5.
+cosine|For an acute angle in a right triangle, adjacent-leg length divided by hypotenuse length.|An angle has adjacent leg 15 and hypotenuse 17. Find its cosine.|\cos\theta=\frac{15}{17}|Use the adjacent leg, not the opposite leg.
+counterclockwise|Turning opposite to the direction of a clock's hands.|A pointer turns from straight right to straight up.|90^\circ\text{ counterclockwise}|This is a quarter turn to the left.
+counterexample|One example that disproves a claim stated for every case.|Disprove the claim that every odd integer is prime.|9=3\cdot3|Nine is odd but composite, so the universal claim is false.
+Counting Principle|Multiply the number of choices at successive independent selection stages to count outcomes.|Choose one of 3 wraps and one of 4 drinks.|3\cdot4=12|There are 12 possible wrap-and-drink combinations.
+cross product|In a proportion, one of the products formed by multiplying diagonally opposite entries.|Check whether 3/7 and 12/28 are equivalent.|3\cdot28=7\cdot12=84|The equal cross products verify the proportion.
+cube|A solid with six congruent square faces.|A cube has side length 4 cm. Find its volume.|V=4^3=64\text{ cm}^3|Four layers of sixteen unit cubes fill the solid.
+cubed|Raised to the third power.|Find seven cubed.|7^3=7\cdot7\cdot7=343|Multiply three copies of 7.
+cubic unit|The volume of a cube with edges one unit long.|A box contains 2 layers of 3 by 5 unit cubes.|2\cdot3\cdot5=30|Its volume is 30 cubic units.
+customary system of measurement|A system including inches, feet, yards, miles, ounces, pounds, cups, and gallons.|Convert 4 yards to feet.|4\text{ yd}\cdot3=12\text{ ft}|One yard equals three feet.
+cylinder|A solid with two congruent, parallel circular bases joined by a curved surface.|A cylinder has radius 3 cm and height 7 cm. Find its volume.|V=\pi(3)^2(7)=63\pi\text{ cm}^3|Multiply the base area by the perpendicular height.
+cylindrical projection|A map projection based on projecting the globe onto a cylinder.|Imagine a cylinder touching a globe along the equator.|\phi=0^\circ|Unrolling the cylinder creates a rectangular map surface; distortion depends on the projection.
+decagon|A polygon with ten sides.|Find the interior-angle sum of a decagon.|(10-2)180^\circ=1440^\circ|A decagon can be divided into eight triangles from one vertex.
+deci-|A metric prefix meaning one tenth.|Convert 6 decimeters to meters.|6\text{ dm}=0.6\text{ m}|Ten decimeters equal one meter.
+decimal|A number representation based on powers of ten, including places to the right of a decimal point.|Write 3.47 in expanded form.|3.47=3+\frac4{10}+\frac7{100}|The digits after the decimal point represent tenths and hundredths.
+decimal addition|Adding decimal quantities by matching place values.|A ribbon is 2.35 m long and another is 1.8 m long. Find the total.|2.35+1.80=4.15|Align the decimal points before adding.
+decimal division|Dividing quantities written in decimal form.|Split 7.2 liters equally among 0.6-liter bottles.|7.2\div0.6=72\div6=12|Multiplying both numbers by 10 preserves the quotient.
+decimal multiplication|Multiplying quantities written in decimal form.|Fabric costs 2.4 dollars per meter. Find the cost of 1.5 meters.|2.4\cdot1.5=3.60|The fabric costs 3 dollars and 60 cents.
+decimal subtraction|Subtracting decimals while matching their place values.|A 5.6-meter board loses a 2.85-meter piece. Find what remains.|5.60-2.85=2.75|Write the extra zero to align hundredths.
+decimal system|The base-ten place-value system.|Explain the value of each digit in 4,206.|4206=4(10^3)+2(10^2)+0(10)+6|Moving one place left multiplies the place value by ten.
+decreasing graph|A graph whose output falls as the input increases over an interval.|A tank contains 30 liters and loses 2 liters per minute.|V=30-2t,\quad0\le t\le15|The graph decreases throughout this time interval.
+deductive reasoning|Using accepted facts and logical rules to reach a certain conclusion.|All multiples of 6 are even. The number 54 is a multiple of 6.|54=6\cdot9\ \Rightarrow\ 54\text{ is even}|The conclusion follows from the general rule.
+degree (°)|An angle unit equal to one three-hundred-sixtieth of a full turn.|A wheel turns through one sixth of a revolution.|\frac16\cdot360^\circ=60^\circ|The turn measures 60 degrees.
+deka-|A metric prefix meaning ten.|Convert 2.4 dekameters to meters.|2.4\text{ dam}=24\text{ m}|Each dekameter contains ten meters.
+denominator|The number below a fraction bar, specifying the division or the size of equal parts.|Seven of twelve equal garden sections contain herbs.|\frac7{12}|The denominator is 12, the number of equal sections in one whole garden.
+dependent events|Events where knowing one outcome changes the probability of another.|A bag has 3 red and 2 blue tiles. Draw twice without replacement.|P(R_2\mid R_1)=\frac24=\frac12|The first red draw changes the contents of the bag.
+dependent variable|An output whose value is determined by another variable in a model.|A parking garage charges 5 dollars per hour.|C=5h|Cost C depends on the number of hours h.
+diagonal|A segment joining two nonadjacent vertices of a polygon.|How many diagonals start at one vertex of a pentagon?|5-3=2|Do not join the vertex to itself or to either neighboring vertex.
+diameter|A segment through a circle's center with endpoints on the circle; also its length.|A wheel has radius 14 cm. Find its diameter.|d=2(14)=28\text{ cm}|The diameter spans two radii.
+difference|The result of subtraction.|A team earned 31 points last week and 24 this week. Find the difference.|31-24=7|The totals differ by 7 points.
+digit|A single symbol used to write numbers in a numeral system.|Which digit is in the hundreds place in 5,382?|5382=5000+300+80+2|The digit is 3; its value is 300.
+dilation|A scaling transformation about a fixed center.|Dilate the point (−2, 3) by scale factor 4 about the origin.|(-2,3)\mapsto(-8,12)|Multiply each coordinate by 4.
+direct variation|A relationship of the form y = kx for a fixed constant k.|A machine makes 18 parts in 3 minutes at a constant rate.|p=6t|The number of parts varies directly with time.
+disjunction|A logical 'or' statement that is true when at least one part is true.|Let p mean '10 is even' and q mean '10 is a multiple of 3'.|p\lor q=\text{true}|Only one part needs to be true; mathematical 'or' usually includes both.
+Distributive Property|Multiplication can be applied to each term inside a sum or difference.|Find the total cost of 7 bundles containing a 20-dollar item and a 3-dollar item.|7(20+3)=140+21=161|Multiply 7 by each part, then add.
+dividend|The quantity being divided.|Share 63 markers equally among 9 tables.|63\div9=7|The dividend is 63.
+divisible|An integer is divisible by another nonzero integer when the quotient is an integer.|Is 78 divisible by 6?|78\div6=13|Yes. There is no remainder.
+division|Separating into equal groups or finding how many groups fit.|Put 56 cards into groups of 8.|56\div8=7|Seven groups use all the cards.
+divisor|The quantity by which another quantity is divided.|Share 84 pencils among 7 classes.|84\div7=12|The divisor is 7.
+dodecagon|A polygon with twelve sides.|Find one exterior angle of a regular dodecagon.|360^\circ\div12=30^\circ|The twelve equal exterior turns complete a full turn.
+double bar graph|A bar graph comparing two data series within the same categories.|Compare Monday and Tuesday loans: fiction 8 and 11; nonfiction 5 and 7.|11-8=3,\quad7-5=2|Place two labeled bars in each category to show both days.
+double line graph|A graph with two lines for comparing how two series change.|Plants A and B start at 4 cm; after a week they measure 9 cm and 7 cm.|\Delta A=5,\quad\Delta B=3|Plot both series against the same time axis.
+double stem-and-leaf diagram|A back-to-back stem-and-leaf display comparing two numerical data sets.|Use scores A: 21, 24, 32 and B: 23, 31, 35.|A=\{21,24,32\},\ B=\{23,31,35\}|Use shared tens stems 2 and 3, with each group's ones digits on its own side.
+edge|A line segment where two faces of a polyhedron meet.|Count the edges on the top and bottom of a rectangular prism, then the connectors.|4+4+4=12|The prism has 12 edges.
+endpoint|A point marking the end of a segment or the start of a ray.|A segment runs from A(−1, 2) to B(5, 2).|\overline{AB}|A and B are the two endpoints.
+equal ratios|Ratios that represent the same relative comparison.|Compare 6 blue tiles to 9 white tiles with 2 blue to 3 white.|\frac69=\frac23|Both comparisons have the same value.
+equality|A statement that two quantities have the same value.|Show that two different calculations give the same amount.|4\cdot7=20+8|Both sides equal 28.
+equally-likely outcomes|Outcomes with the same chance of occurring.|A fair spinner has five equal sectors. Find each sector's probability.|P=\frac15|No sector is more likely than another.
+equation|A mathematical statement that two expressions are equal.|A membership costs 12 dollars plus 4 dollars per visit and totals 32 dollars.|12+4v=32\quad\Rightarrow\quad v=5|Five visits make the equation true.
+equilateral triangle|A triangle with all three sides equal.|An equilateral triangle has perimeter 27 cm. Find each side.|s=27\div3=9\text{ cm}|All three sides must have the same length.
+equivalent equations|Equations with exactly the same solution set.|Compare x + 8 = 19 with 2x + 16 = 38.|x=11|Multiplying both sides of the first equation by 2 preserves its solution.
+equivalent expressions|Expressions with equal values for every input where they are defined.|Rewrite a cost expression by distributing.|5(t+4)=5t+20|The two expressions agree for every value of t.
+equivalent fractions|Different fractions that represent the same number.|Scale both parts of two fifths by 3.|\frac25=\frac6{15}|Multiplying numerator and denominator by the same nonzero number preserves the value.
+equivalent rates|Rates that describe the same relationship in different quantities or units.|A runner travels 12 km in 2 hours. Express the same rate for 3 hours.|\frac{12}{2}=\frac{18}{3}=6\text{ km/h}|Both rates represent 6 kilometers per hour.
+equivalent ratios|Ratios obtained by scaling both quantities by the same nonzero factor.|A recipe uses 3 cups of oats per 2 cups of seeds. Triple it.|3:2=9:6|Both ingredients are multiplied by 3.
+estimate|Find an approximate value suitable for a purpose.|Estimate the cost of 8 items priced at 19.80 dollars each.|8(19.80)\approx8(20)=160|The estimate is slightly greater than the exact cost of 158.40 dollars.
+Euler's formula|For a convex polyhedron, vertices minus edges plus faces equals 2.|Check a triangular prism with 6 vertices, 9 edges, and 5 faces.|6-9+5=2|These counts satisfy Euler's formula.
+evaluate|Calculate an expression's value, substituting given inputs when necessary.|Evaluate 4n − 3 when n is 6.|4(6)-3=21|Substitute first, then follow the order of operations.
+even number|An integer divisible by 2.|Show that 46 is even.|46=2\cdot23|It can be divided into two equal integer groups.
+event|A set of outcomes described by a condition.|Roll a six-sided die. List the outcomes in the event 'greater than 4'.|E=\{5,6\}|Either 5 or 6 makes the event occur.
+expanded form|Writing a number as a sum of its place-value contributions.|Expand 6,035.|6035=6000+30+5|The zero hundreds contributes no amount.
+experiment|A repeatable procedure with observable outcomes.|Spin a four-color spinner once and record the color.|S=\{R,B,G,Y\}|One spin is one trial of the experiment.
+experimental probability|An event's observed frequency divided by the number of trials.|A paper cup lands upright 17 times in 50 tosses.|\widehat P=\frac{17}{50}=0.34|The observed probability is 34%, based on these trials.
+exponent|The power to which a base is raised; a positive integer exponent counts repeated factors.|A branching pattern doubles through five stages. Calculate two to the fifth power.|2^5=32|The exponent 5 tells us to multiply five copies of 2.
+exponential function|A function with a positive constant base other than 1 raised to a variable power.|A culture begins with 50 cells and doubles each hour.|N(t)=50\cdot2^t|After 3 hours, the model gives 400 cells.
+exponential notation|Writing repeated factors using a base and an exponent.|Write four factors of 7 compactly.|7\cdot7\cdot7\cdot7=7^4|The exponent replaces a repeated multiplication.
+expression|A mathematical phrase representing a value, without asserting a relation.|Write the total for five 3-dollar snacks plus a 2-dollar drink.|5(3)+2|Evaluating the expression gives 17 dollars.
+exterior angles|Angles outside a polygon formed by a side and an extension of an adjacent side.|A triangle has two remote interior angles of 47° and 58°. Find the corresponding exterior angle.|47^\circ+58^\circ=105^\circ|An exterior angle of a triangle equals the sum of its remote interior angles.
+face|A flat polygonal surface of a polyhedron.|Count the faces of a triangular prism.|2+3=5|It has two triangular faces and three rectangular faces.
+factor|A number or expression multiplied by another to produce a product.|Write 42 as a product of two whole-number factors.|42=6\cdot7|Both 6 and 7 are factors of 42.
+factor tree|A branching way to split a number into factors until only primes remain.|Start a factor tree for 84 with 7 times 12.|84=7(3\cdot4)=2^2\cdot3\cdot7|Stop splitting when every leaf is prime.
+factorial|The product of the positive integers from 1 through a given positive integer; 0! is defined as 1.|Find the number of orders for five distinct badges.|5!=5\cdot4\cdot3\cdot2\cdot1=120|There are 120 orders.
+fair game|A game in which neither player has an expected advantage under the stated rules.|Two players stake equal amounts; one wins on heads, the other on tails of a fair coin.|P(A)=P(B)=\frac12|Equal chances and equal stakes make this game fair.
+flip|An informal name for a reflection across a line.|Flip the point (−3, 4) across the x-axis.|(-3,4)\mapsto(-3,-4)|The horizontal position stays the same while the vertical sign changes.
+foot|A customary length unit equal to 12 inches.|Convert 2.5 feet to inches.|2.5\cdot12=30\text{ in}|Two and a half feet equals 30 inches.
+formula|A rule expressed with mathematical symbols.|Use the distance formula for constant speed 9 m/s over 7 seconds.|d=rt=9\cdot7=63\text{ m}|Substitute known values into the rule.
+fractal|A shape or pattern that repeats similar structure at different scales.|A branching design replaces each branch with three smaller branches.|b_n=3^n|The repeated rule creates 27 branches after three stages, starting with one branch.
+fraction|A number expressed as one quantity divided by a nonzero quantity.|A trail is split into 9 equal stages; 4 are complete. Express the completed portion.|\frac49|The numerator counts completed stages; the denominator counts all equal stages.
+fraction addition|Combining fractional quantities, using common denominators when needed.|A recipe uses 1/4 cup of oil and another 1/6 cup.|\frac14+\frac16=\frac3{12}+\frac2{12}=\frac5{12}|Twelfths allow the pieces to be counted together.
+fraction division|Finding how many groups of a fractional size fit in a quantity.|How many quarter-cup portions fit in 3/2 cups?|\frac32\div\frac14=\frac32\cdot4=6|Six quarter-cup portions fit.
+fraction multiplication|Multiplying fractional values, often finding a part of a part.|Three fifths of a garden is planted, and half of that area has herbs.|\frac12\cdot\frac35=\frac3{10}|Herbs cover three tenths of the entire garden.
+fraction subtraction|Finding the difference between fractional quantities.|A bottle is 5/6 full; 1/4 of a full bottle is poured out.|\frac56-\frac14=\frac{10}{12}-\frac3{12}=\frac7{12}|Seven twelfths of the bottle remains.
+frequency|The number of times a value or category occurs.|In the list 2, 5, 2, 7, 2, 5, count the twos.|f(2)=3|The frequency of 2 is three.
+frequency chart or table|A table pairing each category or value with its count.|Record votes: jazz, pop, jazz, folk, pop, jazz.|\begin{array}{cc}\text{Jazz}&3\\\text{Pop}&2\\\text{Folk}&1\end{array}|The frequencies add to the six recorded votes.
+front-end estimation|Estimating with the leading place values, optionally adjusting for the remaining parts.|Estimate 462 + 318 using hundreds first.|400+300=700|The remaining 62 and 18 add 80, so an adjusted estimate is about 780.
+function|A relationship assigning exactly one output to each input.|A rule triples an input and then adds 2.|f(x)=3x+2,\quad f(4)=14|Each input produces a single output.
+Fundamental Theorem of Arithmetic|Every integer greater than 1 has a unique prime factorization, apart from factor order.|Factor 90 completely.|90=2\cdot3^2\cdot5|Any complete prime factorization of 90 uses the same primes with the same multiplicities.
+gallon|A customary capacity unit; a US liquid gallon equals 4 quarts.|Convert 3 US liquid gallons to quarts.|3\cdot4=12\text{ qt}|Use the US liquid measure in this example.
+geometric probability|Probability found from a ratio of lengths, areas, or volumes when selection is uniform.|Choose a point uniformly on a 20 cm strip. A shaded section is 7 cm long.|P=\frac7{20}|Uniform selection makes probability proportional to length.
+geometric sequence|A sequence with a fixed multiplier between consecutive nonzero terms.|A sequence begins 3, 12, 48. Find the next term.|48\cdot4=192|The common ratio is 4.
+geometry|The study of shapes, sizes, positions, and spatial relationships.|Find the area of a triangular banner with base 10 cm and height 7 cm.|A=\frac12(10)(7)=35\text{ cm}^2|The calculation connects a shape with its measurements.
+gram|A metric unit of mass equal to one thousandth of a kilogram.|Convert 750 grams to kilograms.|750\text{ g}=0.75\text{ kg}|Divide by 1,000.
+graph|A visual representation of numerical information or mathematical relationships.|Plot the input-output pairs for y = x + 3 when x is 0, 1, and 2.|(0,3),\ (1,4),\ (2,5)|The points lie on one straight line.
+greatest common factor (GCF)|The largest positive integer that divides all the given integers.|Find the greatest common factor of 24 and 36.|24=2^3\cdot3,\quad36=2^2\cdot3^2\quad\Rightarrow\quad\mathrm{GCF}=12|Use the common primes with the smaller exponents.
+hecto-|A metric prefix meaning one hundred.|Convert 3.2 hectometers to meters.|3.2\text{ hm}=320\text{ m}|Each hectometer contains 100 meters.
+height|The perpendicular distance from a chosen base to the opposite vertex, side, or plane.|A triangle has area 30 cm² and base 12 cm. Find its height.|h=\frac{2(30)}{12}=5\text{ cm}|The height is measured at a right angle to the base.
+heptagon|A polygon with seven sides.|Find the interior-angle sum of a heptagon.|(7-2)180^\circ=900^\circ|Five triangles account for the angle sum.
+hexadecimal number system|A base-sixteen system using 0–9 and A–F for digit values zero through fifteen.|Convert hexadecimal 2B to decimal.|2B_{16}=2(16)+11=43_{10}|B represents eleven.
+hexagon|A polygon with six sides.|A regular hexagon has perimeter 42 cm. Find its side length.|42\div6=7\text{ cm}|Regular means all six sides are equal.
+histogram|A display of numerical data grouped into intervals, with adjoining bars showing frequencies.|Put ages 11, 12, 14, 15, 17 into intervals 10–12, 13–15, and 16–18.|(2,2,1)|The bar heights are 2, 2, and 1; the intervals do not overlap.
+horizontal axis|The left-to-right reference axis of a graph, usually the x-axis.|Plot the point (6, −1).|x=6|Move six units along the horizontal direction before moving vertically.
+hypotenuse|The side opposite the right angle in a right triangle; it is the longest side.|A right triangle has legs 8 and 15. Find its hypotenuse.|c=\sqrt{8^2+15^2}=17|The hypotenuse has length 17.
+identity|An equation true for every allowed value of its variables.|Check the distributive relationship for an arbitrary real number t.|2(t+5)=2t+10|Both sides have the same value for every real t.
+if-then statement|A conditional statement connecting a hypothesis to a conclusion.|Write a condition that guarantees a number is even.|n=4k\ \Rightarrow\ n=2(2k)|If an integer is a multiple of 4, then it is even.
+improper fraction|A fraction with a positive denominator whose numerator is at least as large as its denominator.|Write 17/5 as a mixed number.|\frac{17}{5}=3\frac25|Seventeen fifths contains three wholes and two fifths.
+inch|A customary length unit equal to one twelfth of a foot.|A strip is 18 inches long. Express its length in feet.|18\div12=1.5\text{ ft}|Twelve inches make one foot.
+increasing graph|A graph whose output rises as the input increases over an interval.|A savings balance starts at 20 dollars and grows by 6 dollars each week.|B=20+6w|The positive weekly increase makes the graph rise from left to right.
+independent events|Events where knowing one outcome does not change the probability of the other.|Flip a fair coin and roll a fair die. Find the probability of heads and a 2.|\frac12\cdot\frac16=\frac1{12}|The coin result does not affect the die result.
+independent variable|The input selected or controlled in a relationship or model.|A taxi fare is modeled by C = 4 + 2d, where d is distance.|C=4+2d|Distance d is the input; cost depends on it.
+inductive reasoning|Using observed patterns to propose a general conclusion that still needs justification.|The sums 1 + 3, 1 + 3 + 5, and 1 + 3 + 5 + 7 are squares.|4=2^2,\quad9=3^2,\quad16=4^2|These cases suggest that sums of consecutive odd numbers form squares.
+inequality|A statement comparing quantities with <, >, ≤, or ≥.|An elevator can carry at most 600 kg. Write the restriction on load L.|L\le600|The equal case is allowed because 'at most' includes 600.
+inscribed figure|An inner figure whose specified vertices or sides touch an outer boundary.|A square's four vertices lie on a circle of radius 5 cm.|d_{\text{square}}=10\text{ cm}|The square is inscribed in the circle, and its diagonal is the circle's diameter.
+integer addition|Adding positive and negative whole-number values, including zero.|The temperature rises 12 degrees from −5 degrees.|-5+12=7|The new temperature is 7 degrees.
+integer division|Dividing integers using the rules for signs.|A debt of 48 dollars is shared equally among 6 people.|-48\div6=-8|Each person's share is −8 dollars.
+integer multiplication|Multiplying integers using sign rules and ordinary multiplication.|A game deducts 7 points on each of 4 penalties.|4(-7)=-28|The total score change is −28 points.
+integer subtraction|Subtracting an integer, which is equivalent to adding its opposite.|Find the change from −6 degrees to 3 degrees.|3-(-6)=3+6=9|The temperature increased by 9 degrees.
+integers|The positive and negative whole numbers together with zero.|List the integers strictly between −3 and 2.|\{-2,-1,0,1\}|Fractions between these values are not integers.
+interest|Money charged for borrowing or earned for lending or depositing money.|A 500-dollar loan earns simple interest at 4% for one year.|I=500(0.04)(1)=20|The interest is 20 dollars, separate from the principal.
+interior angles|Angles inside a polygon, or between two lines cut by a transversal.|Find the third interior angle of a triangle with angles 36° and 79°.|180^\circ-36^\circ-79^\circ=65^\circ|A triangle's interior angles total 180°.
+intersect|To meet or share one or more points.|Find where the lines y = x + 1 and y = 5 meet.|x+1=5\quad\Rightarrow\quad(4,5)|The two lines share the point (4, 5).
+interval|A continuous range of values between stated bounds.|Write all real temperatures from 18°C through 24°C, including both endpoints.|18\le T\le24|This closed interval includes every real value between the bounds.
+inverse operations|Operations that undo one another when used with appropriate values.|Undo multiplication by 7 in the equation 7x = 63.|x=63\div7=9|Division reverses the multiplication.
+inverse variation|A relationship in which the product of two variables is constant.|A job needs 24 worker-hours. Express time t for w equally productive workers.|t=\frac{24}{w},\quad w>0|Doubling the workers halves the time in this model.
+irrational number|A real number that cannot be expressed as a ratio of two integers.|Classify the positive number whose square is 11.|\sqrt{11}\approx3.3166\ldots|Its decimal neither terminates nor repeats.
+isometric drawing|A three-dimensional sketch using three equally scaled directions typically separated by 120°.|Sketch a 2-by-3-by-4 block along three isometric directions.|120^\circ+120^\circ+120^\circ=360^\circ|Equal axis spacing helps show three dimensions on a flat page.
+isosceles triangle|A triangle with at least two equal sides.|Two sides measure 13 cm each and the base is 10 cm. Find the perimeter.|13+13+10=36\text{ cm}|The equal side lengths make the triangle isosceles.
+kilo-|A metric prefix meaning one thousand.|Convert 4.7 kilometers to meters.|4.7\text{ km}=4700\text{ m}|Multiply by 1,000.
+latitude|Angular position north or south of the equator.|A location is 32 degrees north of the equator.|32^\circ\text{ N}|Latitude gives north-south position, not east-west position.
+least common denominator (LCD)|The smallest positive common multiple of the denominators of given fractions.|Find an LCD for fractions with denominators 8 and 12.|\mathrm{LCM}(8,12)=24|Twenty-fourths can express both fractions.
+least common multiple (LCM)|The smallest positive number that is a multiple of every given positive integer.|Two lights flash every 9 and 12 seconds. When do they next flash together?|\mathrm{LCM}(9,12)=36|The first shared positive multiple is 36 seconds.
+leg|One of the two sides forming the right angle in a right triangle.|A right triangle has hypotenuse 25 and one leg 7. Find the other leg.|b=\sqrt{25^2-7^2}=24|The unknown leg has length 24.
+like denominators|Denominators that are the same.|Add two fractions already divided into elevenths.|\frac3{11}+\frac5{11}=\frac8{11}|Because the parts have the same size, add only their counts.
+like terms|Terms with the same variable factors raised to the same powers.|Combine the terms in 6a + 2b − 4a.|6a+2b-4a=2a+2b|The a-terms combine; the b-term stays separate.
+line|A straight path extending without end in both directions.|Two points A and B determine a line.|\overleftrightarrow{AB}|The arrows indicate that the path continues beyond both points.
+line graph|A graph joining successive data points to show change along an ordered axis.|Daily temperatures are 12, 15, and 13 degrees.|(1,12),\ (2,15),\ (3,13)|Join neighboring days to show the rise and then the fall.
+line of symmetry|A line across which reflection leaves a figure unchanged.|Reflect a rectangle centered at the origin across the y-axis.|(x,y)\mapsto(-x,y)|The left and right halves match, making the y-axis a symmetry line.
+line plot|A number-line display using marks to count occurrences of data values.|Plot measurements 4, 4, 5, 7, 7, 7.|f(4)=2,\quad f(5)=1,\quad f(7)=3|Stack two marks over 4, one over 5, and three over 7.
+line segment|The part of a line between two endpoints, including those endpoints.|A horizontal segment joins (−4, 2) to (3, 2). Find its length.|3-(-4)=7|The segment is 7 units long.
+line symmetry|A property of a figure that matches itself after reflection across a line.|An isosceles triangle has its top vertex directly above the midpoint of its base.|x=0|When placed symmetrically about the y-axis, reflecting across that axis preserves the triangle.
+linear equation|An equation whose graph is a straight line.|A fare has a fixed 3-dollar charge and 2 dollars per mile.|C=2m+3|The graph has constant slope 2 and vertical intercept 3.
+linear function|A function with constant rate of change, written in the form f(x) = mx + b.|A candle starts 18 cm tall and loses 2 cm per hour.|h(t)=18-2t,\quad0\le t\le9|The height changes by the same amount each hour.
+linear inequality|An inequality involving linear expressions; in two variables its graph is a half-plane.|A snack budget allows 3x + 2y to be no more than 18 dollars.|3x+2y\le18|Points on or below the budget line satisfy the inequality in the nonnegative region.
+liter|A metric volume unit equal to 1,000 milliliters.|A pitcher contains 1.75 liters. Express that in milliliters.|1.75\text{ L}=1750\text{ mL}|Multiply liters by 1,000.
+longitude|Angular position east or west of the prime meridian.|A location lies 81 degrees west of the prime meridian.|81^\circ\text{ W}|Longitude gives east-west position on the globe.
+lower quartile|The first quartile, marking the lower quarter of ordered data under a stated convention.|Using the median-of-halves method, find Q1 for 2, 4, 6, 8, 10, 12, 14, 16.|Q_1=\frac{4+6}{2}=5|The lower half is 2, 4, 6, 8; its median is 5.
+lowest terms|A fraction form whose numerator and denominator share no positive factor greater than 1.|Reduce 21/35.|\frac{21}{35}=\frac35|Divide both parts by their greatest common factor, 7.
+mass|A measure of the amount of matter in an object.|A kit contains four 125-gram parts. Find the total mass.|4(125)=500\text{ g}|The kit's parts have mass 0.5 kilograms.
+mean|The sum of numerical data divided by the number of values.|Find the mean of 7, 10, 13, and 18.|\frac{7+10+13+18}{4}=12|The total 48 shared equally among four values gives 12.
+measure of central tendency|A statistic used to describe a center or typical value of data.|For 3, 5, 5, 11, compare three measures of center.|\text{mean}=6,\quad\text{median}=5,\quad\text{mode}=5|Different measures summarize the same data in different ways.
+measurement error|The difference between a measured value and a reference or true value.|A 20 cm reference length is measured as 19.7 cm. Find the absolute error.|\lvert19.7-20\rvert=0.3\text{ cm}|The measurement is low by 0.3 cm.
+median|The middle ordered value, or the average of the two middle values for an even-sized data set.|Find the median of 14, 6, 11, 8, 20.|6,8,11,14,20\quad\Rightarrow\quad\text{median}=11|Order the values before selecting the middle one.
+mental math|Calculating by reasoning about numbers without written algorithms or a calculator.|Compute 25 times 16 mentally.|25(16)=25(4)(4)=100(4)=400|Regrouping creates an easy multiplication by 100.
+meter|The base metric unit of length.|A hallway is 8.25 meters long. Express it in centimeters.|8.25\text{ m}=825\text{ cm}|One meter contains 100 centimeters.
+metric system|A measurement system organized largely by powers of ten.|Convert 0.36 kilograms to grams.|0.36\text{ kg}=360\text{ g}|Metric prefixes describe powers-of-ten changes in unit size.
+midpoint|The point halfway between a segment's endpoints.|Find the midpoint of A(1, 5) and B(7, −1).|M=\left(\frac{1+7}{2},\frac{5-1}{2}\right)=(4,2)|Average the two x-values and the two y-values.
+mile|A customary length unit equal to 5,280 feet.|A route is half a mile. Express its length in feet.|\frac12(5280)=2640\text{ ft}|Half a mile equals 2,640 feet.
+milli-|A metric prefix meaning one thousandth.|Convert 9 millimeters to meters.|9\text{ mm}=0.009\text{ m}|One millimeter is one thousandth of a meter.
+mixed number|A whole number plus a proper fraction, written together.|Convert 23/6 to a mixed number.|\frac{23}{6}=3\frac56|Eighteen sixths make three wholes, leaving five sixths.
+mode|The value or values with the greatest frequency in a data set.|Find the mode of 4, 6, 6, 6, 9, 9.|\text{mode}=6|Six appears three times, more than any other value.
+monomial|A single term made from a constant and variables with nonnegative integer exponents.|Classify the expression 5x²y.|5x^2y|It is one term, so it is a monomial.
+multiple|A product of a given number and an integer.|List four positive multiples of 7.|7,14,21,28|Multiply 7 by 1, 2, 3, and 4.
+multiplication|Finding the product of quantities.|There are 9 trays with 6 cups each. Find the cup count.|9\cdot6=54|Multiplication counts the equal groups efficiently.
+multiplication property|A rule about multiplication; this entry uses multiplying both sides of an inequality.|Multiply x/3 < 5 by the positive number 3.|\frac{x}{3}<5\quad\Rightarrow\quad x<15|Multiplying by a positive number keeps the inequality direction; a negative multiplier reverses it.
+Multiplication Property of Equality|Multiplying both sides of an equation by the same number preserves equality.|A quarter of a number equals 7. Multiply both sides by 4.|\frac{x}{4}\cdot4=7\cdot4\quad\Rightarrow\quad x=28|The same multiplication is applied to both sides.
+multiplicative inverse|A number that multiplies a given nonzero number to make 1.|Find the multiplicative inverse of 5/8.|\frac58\cdot\frac85=1|The inverse is 8/5. Zero has no multiplicative inverse.
+mutually exclusive|Events that cannot happen on the same trial.|On one die roll, can the result be both 2 and 5?|P(2\text{ and }5)=0|The two single-roll events are mutually exclusive.
+negative numbers|Numbers less than zero.|An account has a balance of −18 dollars.|-18<0|The negative sign indicates a balance below zero.
+negative relationship|A pattern where larger values of one variable tend to accompany smaller values of another.|A fixed trip takes 6 hours at 40 km/h and 4 hours at 60 km/h.|t=\frac{240}{v}|As speed increases, travel time decreases.
+negative slope|A slope below zero, so a line falls from left to right.|Find the slope through (1, 8) and (4, 2).|m=\frac{2-8}{4-1}=-2|For each unit right, the line goes down 2 units.
+negative square root|The negative of the principal square root of a positive number.|Find the negative square root of 64.|-\sqrt{64}=-8|Squaring −8 gives 64.
+net|A flat layout of faces that can fold into a three-dimensional solid.|A cube net uses six squares with side length 3 cm. Find its area.|6(3^2)=54\text{ cm}^2|The flat net has the same total area as the cube's surface.
+no relationship|A data pattern with no clear association between the two variables under consideration.|Compare assigned locker numbers with students' shoe sizes.|(12,7),\ (35,9),\ (61,6),\ (88,8)|These pairs show no consistent increasing or decreasing pattern.
+nonagon|A polygon with nine sides.|Find each exterior angle of a regular nonagon.|360^\circ\div9=40^\circ|Nine 40-degree turns complete a full turn.
+nonlinear equation|An equation whose graph is not a straight line.|Give an equation whose graph is a parabola.|y=x^2+2|Its rate of change varies, so the graph is curved.
+nonlinear function|A function without a constant rate of change across its domain.|The area of a square depends on its side length.|A(s)=s^2|Increasing the side from 2 to 3 adds 5 area units; from 3 to 4 adds 7.
+number line|A straight-line model placing numbers according to their values.|Locate −2.5 between consecutive integers.|-3<-2.5<-2|It sits halfway between −3 and −2.
+number-word form|Writing a number using words for large place-value units.|Express 4,200,000 with a decimal and a place-value word.|4{,}200{,}000=4.2\text{ million}|The word 'million' carries the large place-value unit.
+numeral|A written symbol or group of symbols representing a number.|Write the number twenty-eight in decimal numerals.|28|The two digits together form one numeral.
+numerator|The number above a fraction bar, giving how many fractional units are counted.|Five of eight equal pie slices remain.|\frac58|The numerator is 5 because five slices are counted.
+obtuse angle|An angle greater than 90° and less than 180°.|A door opens through 124°. Classify its angle.|90^\circ<124^\circ<180^\circ|The opening is obtuse.
+obtuse triangle|A triangle with one angle greater than 90°.|A triangle's angles are 104°, 39°, and 37°.|104^\circ+39^\circ+37^\circ=180^\circ|The 104-degree angle makes the triangle obtuse.
+octagon|A polygon with eight sides.|Find the perimeter of a regular octagon with 6 cm sides.|P=8(6)=48\text{ cm}|Add eight equal side lengths.
+odd number|An integer not divisible by 2.|Show that 53 is odd.|53=2(26)+1|Dividing by 2 leaves remainder 1.
+odds|A comparison of favorable outcomes with unfavorable outcomes, often for equally likely cases.|A bag has 4 gold tokens and 7 silver tokens. Give the odds in favor of gold.|4:7|Odds compare gold with non-gold, not with all 11 tokens.
+operation|A mathematical process such as addition, subtraction, multiplication, or division.|Identify the operations in 18 ÷ 3 + 4.|18\div3+4=10|Perform division before addition.
+opposite leg|In a right triangle, the leg across from a specified acute angle.|An angle has opposite leg 9 and hypotenuse 15.|\sin\theta=\frac9{15}=\frac35|The opposite leg does not touch the chosen angle.
+opposite numbers|Two numbers that sum to zero and lie equally far from zero in opposite directions.|A score change of +12 is reversed by what change?|12+(-12)=0|The opposite of 12 is −12.
+order of operations|The conventions that determine which operations to perform first.|Evaluate 7 + 3(8 − 5)².|7+3(3^2)=7+27=34|Use parentheses, powers, multiplication, then addition.
+ordered pair|Two values written in a specified order, often locating a point.|Compare the points (2, 6) and (6, 2).|(2,6)\ne(6,2)|Switching the order changes the location.
+origin|The point where coordinate axes meet.|A robot returns to x = 0 and y = 0.|O=(0,0)|The robot is back at the origin.
+orthographic drawing|A set of separate straight-on views of a three-dimensional object.|A block is 6 cm wide, 4 cm deep, and 3 cm tall.|\text{front}:6\times3,\quad\text{top}:6\times4|The front and top views show different pairs of dimensions.
+ounce|A customary unit of weight; a fluid ounce is a different unit of volume.|Convert 2 pounds to ordinary weight ounces.|2\text{ lb}=32\text{ oz}|There are 16 weight ounces in one pound.
+outcome|One possible result of an experiment.|Roll a die and flip a coin. Name one outcome.|(5,H)|A complete outcome records both results.
+outlier|A data value unusually far from most other values.|Inspect 9, 10, 11, 11, 12, 45.|45\gg12|The value 45 is far from the cluster and is a possible outlier.
+parabola|The curve formed by the graph of a quadratic function in a coordinate plane.|Locate the vertex of y = (x − 2)² + 1.|y=(x-2)^2+1\quad\Rightarrow\quad V=(2,1)|The squared part is smallest when x is 2.
+parallel|Lines in the same plane that never intersect.|Compare y = 3x + 2 and y = 3x − 5.|m_1=m_2=3|Equal slopes and different intercepts make the lines parallel.
+parallelogram|A quadrilateral with both pairs of opposite sides parallel.|A parallelogram has base 8 cm and perpendicular height 5 cm.|A=8(5)=40\text{ cm}^2|The height is perpendicular to the base, not necessarily a side length.
+pentagon|A polygon with five sides.|Find the interior-angle sum of a pentagon.|(5-2)180^\circ=540^\circ|Three triangles account for the angle sum.
+percent|A rate expressed per hundred.|A class completes 18 of 24 tasks. Express the completion rate as a percent.|\frac{18}{24}\cdot100\%=75\%|Three fourths is the same as seventy-five per hundred.
+percent change|The change divided by the original amount, expressed as a percent.|A membership grows from 80 to 92. Find the percent change.|\frac{92-80}{80}\cdot100\%=15\%|The positive change is a 15% increase.
+percent decrease|A decrease compared with the original amount, expressed as a percent.|A jacket's price drops from 60 dollars to 45 dollars.|\frac{60-45}{60}\cdot100\%=25\%|The denominator is the original price.
+percent increase|An increase compared with the original amount, expressed as a percent.|A plant grows from 20 cm to 27 cm.|\frac{27-20}{20}\cdot100\%=35\%|The increase is 7 cm, which is 35% of the original height.
+perfect square|An integer equal to the square of an integer.|Show that 144 is a perfect square.|12^2=144|A 12-by-12 array contains 144 unit squares.
+perimeter|The total length of a closed figure's boundary.|A garden is 9 meters long and 4 meters wide. Find its perimeter.|P=2(9+4)=26\text{ m}|Add the lengths of all four edges.
+permutation|An ordered selection of objects.|Choose a first-place and second-place winner from 6 runners.|6\cdot5=30|Order matters: first then second differs from second then first.
+perpendicular|Meeting at a right angle.|Compare lines with slopes 2 and −1/2.|2\left(-\frac12\right)=-1|Nonvertical lines with negative reciprocal slopes are perpendicular.
+perpendicular bisector|A line perpendicular to a segment through its midpoint.|Find the perpendicular bisector of a horizontal segment from (1, 3) to (7, 3).|x=4|The midpoint is (4, 3), and the bisector is vertical.
+pi (π)|The constant ratio of a circle's circumference to its diameter.|A circle has diameter 9 cm. Write its circumference exactly.|C=9\pi\text{ cm}|Pi is irrational; using 3.14 would give an approximation.
+pictograph|A graph using repeated symbols to represent counts.|In a reading chart, each book symbol represents 4 books. What do 6 symbols represent?|6(4)=24|Read the key before counting the symbols.
+place value|The value contributed by a digit because of its position in a numeral.|What value does the digit 7 have in 8.073?|7\cdot\frac1{100}=0.07|The 7 is in the hundredths place.
+plane|A flat two-dimensional surface extending indefinitely.|Points A, B, and C do not lie on one line.|\text{plane }ABC|Three noncollinear points determine one plane.
+point symmetry|A figure's property of matching itself after a half turn about a point.|Rotate a parallelogram 180° about the intersection of its diagonals.|(x,y)\mapsto(-x,-y)|When the center is the origin, opposite points exchange places.
+polygon|A closed plane figure formed from straight segments that meet only at their endpoints.|A closed shape has 6 straight sides. Is it a polygon?|n=6|Yes; it is a hexagon. A circle is not a polygon because its boundary is curved.
+polyhedron|A solid bounded by polygonal faces.|A solid has two pentagonal faces and five rectangular faces.|F=2+5=7|All faces are polygons, so it is a polyhedron.
+polynomial|A sum of terms involving constants and nonnegative integer powers of variables.|Classify 4x³ − 2x + 9.|4x^3-2x+9|It is a polynomial of degree 3 with three terms.
+population|The entire group about which a statistical question is asked.|A survey studies all 620 students at a school.|N=620|All 620 students form the population, even if only some answer the survey.
+positive numbers|Numbers greater than zero.|A hiker's elevation change is +45 meters.|45>0|The positive sign represents an increase in this context.
+positive relationship|A pattern where larger values of one variable tend to accompany larger values of another.|At a fixed price, buying more tickets raises the total cost.|C=8n|Cost increases as the number of tickets increases.
+positive slope|A slope greater than zero, so a line rises from left to right.|Find the slope through (2, 1) and (5, 7).|m=\frac{7-1}{5-2}=2|Each step right increases the height by 2.
+pound|A customary weight unit equal to 16 ordinary ounces.|A parcel weighs 3.25 pounds. Express its weight in ounces.|3.25(16)=52\text{ oz}|Multiply pounds by 16.
+power|An expression with a base and exponent, or the value it represents.|Evaluate the fourth power of 3.|3^4=81|The base is 3 and the exponent is 4.
+precision|The fineness or consistency of a measurement, distinct from closeness to the true value.|Compare a length recorded as 12 cm with one recorded as 12.04 cm.|0.01\text{ cm}<1\text{ cm}|The second reports a finer measurement increment; that alone does not guarantee accuracy.
+prime factor|A factor that is a prime number.|Find the prime factors appearing in 66.|66=2\cdot3\cdot11|Each of 2, 3, and 11 is prime.
+prime factorization|Writing an integer greater than 1 as a product of prime numbers.|Find the prime factorization of 72.|72=2^3\cdot3^2|The final factors are all prime.
+prime number|A positive integer greater than 1 with exactly two positive divisors.|Explain why 29 is prime.|\text{divisors of }29=\{1,29\}|No other positive integer divides 29 evenly.
+principal|The initial amount borrowed or invested, before interest.|An account starts with 350 dollars and later earns 14 dollars of interest.|P=350,\quad A=364|The principal remains the original 350 dollars.
+principal square root|The nonnegative square root of a nonnegative number, denoted by the radical symbol.|Evaluate the radical of 121.|\sqrt{121}=11|The radical alone means the nonnegative root, not both signs.
+prism|A polyhedron with two congruent parallel polygonal bases connected by parallelogram faces.|A right prism has base area 18 cm² and height 5 cm.|V=18(5)=90\text{ cm}^3|A prism's volume is base area times perpendicular height.
+probability|A number from 0 to 1 measuring the chance of an event.|A fair spinner has 8 equal sectors, 3 of them green.|P(G)=\frac38|Three of the eight equally likely outcomes are favorable.
+product|The result of multiplication.|Seven boxes hold 12 pencils each. Find the product.|7(12)=84|The product gives the total of 84 pencils.
+proportion|An equation stating that two ratios are equal.|A paint mix uses 2 parts blue to 5 parts white. How much blue matches 20 parts white?|\frac25=\frac{x}{20}\quad\Rightarrow\quad x=8|Scale both quantities by 4.
+protractor|An instrument marked with angles for measuring or drawing them.|Draw a ray, place the protractor's center at its endpoint, and mark 65°.|\theta=65^\circ|Read the scale whose zero aligns with the starting ray.
+pyramid|A solid with a polygonal base and triangular faces meeting at one vertex.|A pyramid has base area 24 cm² and perpendicular height 9 cm.|V=\frac13(24)(9)=72\text{ cm}^3|Use perpendicular height, not the slant height of a face.
+Pythagorean Theorem|The square of a right triangle's hypotenuse equals the sum of the squares of its legs.|A rectangular courtyard is 9 m by 12 m. Find its diagonal.|d=\sqrt{9^2+12^2}=15\text{ m}|The diagonal is the hypotenuse of a right triangle.
+quadrants|The four regions made by the axes of a coordinate plane.|Identify the quadrant containing (−4, −7).|x<0,\quad y<0|Both coordinates are negative, so the point lies in Quadrant III.
+quadratic equation|An equation that can be written with a nonzero squared term as its highest variable power.|Solve x² − 25 = 0.|x^2=25\quad\Rightarrow\quad x=\pm5|Both 5 and −5 satisfy the equation.
+quadratic function|A function of the form f(x) = ax² + bx + c with a nonzero.|Evaluate a quadratic area model at x = 4.|f(x)=x^2+3x,\quad f(4)=28|The squared term makes this a quadratic function.
+quadrilateral|A polygon with four sides.|Find the fourth angle when a quadrilateral has angles 80°, 95°, and 110°.|360^\circ-80^\circ-95^\circ-110^\circ=75^\circ|A quadrilateral's interior angles total 360°.
+quart|A customary capacity unit equal to one quarter of a US liquid gallon.|Convert 10 US liquid quarts to gallons.|10\div4=2.5\text{ gal}|Four quarts make one gallon.
+quartile|One of the cut values dividing ordered data into four groups under a chosen convention.|Use median-of-halves quartiles for 1, 3, 5, 7, 9, 11, 13, 15.|Q_1=4,\quad Q_2=8,\quad Q_3=12|The middle quartile is the median; quartile conventions can differ for some data sets.
+quotient|The result of division.|Divide 96 beads equally among 8 bracelets.|96\div8=12|The quotient is 12 beads per bracelet.
+radical sign|The symbol used to indicate a root.|Read the expression for the cube root of 125.|\sqrt[3]{125}=5|The small 3 specifies a cube root; an omitted index means square root.
+radius|A segment from a circle's center to its boundary, or its length.|A circular track has diameter 26 m. Find its radius.|r=26\div2=13\text{ m}|The radius is half the diameter.
+random sample|A sample chosen using chance rather than deliberate preference.|Select 20 names using a random draw from 200 equally treated names.|P(\text{a particular name selected})=\frac{20}{200}=0.1|Each person has the same selection chance in this simple random sample.
+range|For data, maximum minus minimum; for a function, the set of its possible outputs.|Find the statistical range of 6, 14, 9, 21.|21-6=15|Here 'range' means data spread, not a function's output set.
+rate|A ratio comparing quantities with different units.|A printer makes 84 pages in 4 minutes.|\frac{84\text{ pages}}{4\text{ min}}=21\text{ pages/min}|The unit rate is 21 pages per minute.
+ratio|A comparison of two quantities by division.|A basket holds 5 pears and 8 apples. Write the pear-to-apple ratio.|5:8|The order of the named quantities determines the order of the ratio.
+rational number|A number expressible as a ratio of integers with a nonzero denominator.|Write 0.375 as a fraction.|0.375=\frac{375}{1000}=\frac38|This fraction representation shows that the number is rational.
+ray|A straight path starting at one endpoint and continuing infinitely in one direction.|Name the ray starting at P and passing through Q.|\overrightarrow{PQ}|The first letter names the endpoint.
+real numbers|All numbers on the ordinary number line, including rational and irrational numbers.|Classify −3, 2/7, and √5.|-3,\ \frac27,\ \sqrt5\in\mathbb R|All three are real, although √5 is irrational.
+reciprocals|Two nonzero numbers whose product is 1.|Find the reciprocal of 9/4.|\frac94\cdot\frac49=1|The reciprocal is 4/9.
+rectangle|A quadrilateral with four right angles.|A rectangle has length 11 cm and width 6 cm. Find its area.|A=11(6)=66\text{ cm}^2|Its opposite sides are equal and all corners are right angles.
+reflection|A transformation that mirrors points across a line.|Reflect the point (5, −2) across the y-axis.|(5,-2)\mapsto(-5,-2)|The two points are equally far from the mirror line.
+regular polygon|A polygon whose sides are all equal and whose interior angles are all equal.|Find each interior angle of a regular pentagon.|\frac{(5-2)180^\circ}{5}=108^\circ|Equal angles divide the total angle sum evenly.
+relative position|A location described in relation to another object or point.|A cafe is 3 blocks east and 2 blocks north of the library.|\Delta x=3,\quad\Delta y=2|The library is the reference location for this description.
+remainder|The amount left after whole-number division into equal groups.|Pack 53 balls into bags holding 8 each.|53=8(6)+5|Six bags are full, with remainder 5.
+repeating decimal|A decimal with a digit or block that continues repeating forever.|Write 5/9 in decimal notation.|\frac59=0.\overline5|The bar means the digit 5 repeats without ending.
+rhombus|A quadrilateral with all four sides equal.|A rhombus has diagonals 10 cm and 14 cm. Find its area.|A=\frac12(10)(14)=70\text{ cm}^2|Its perpendicular diagonals divide it into four right triangles.
+right angle|An angle measuring exactly 90°.|A robot turns from facing north to facing east.|\theta=90^\circ|The quarter turn is a right angle.
+right triangle|A triangle containing one 90° angle.|A triangle has sides 5, 12, and 13. Check whether it is right.|5^2+12^2=13^2|The equality confirms a right angle opposite the side of length 13.
+rise|The vertical change between two points, often used in calculating slope.|Move from (2, 3) to (8, 7). Find the rise.|\Delta y=7-3=4|The vertical coordinate increases by 4.
+rotation|A transformation that turns a figure about a fixed point.|Rotate (4, 1) 90° counterclockwise about the origin.|(4,1)\mapsto(-1,4)|A quarter turn uses the rule (x, y) → (−y, x).
+rotational symmetry|A figure matches itself after some turn greater than 0° and less than 360°.|Find the smallest positive symmetry rotation of a regular hexagon.|360^\circ\div6=60^\circ|A 60-degree turn carries every vertex to the next vertex.
+rounding|Replacing a number with a nearby value at a specified place.|Round 8.376 to the nearest hundredth.|8.376\approx8.38|The thousandths digit 6 rounds the hundredths digit upward.
+run|The horizontal change between two points, often used in calculating slope.|Move from (−2, 5) to (4, 8). Find the run.|\Delta x=4-(-2)=6|The horizontal coordinate increases by 6.
+sample|A subset of a population used to gather information.|A school of 900 students surveys 60 selected students.|n=60,\quad N=900|The 60 respondents form the sample; the school is the population.
+sample space|The set of all possible outcomes of an experiment.|List all outcomes when two coins are flipped in order.|S=\{HH,HT,TH,TT\}|HT and TH differ because the coin positions are distinguished.
+scale (graphical)|The numerical increment represented by equal distances on a graph axis.|An axis is labeled 0, 5, 10, 15 at equal spacing.|\Delta y=5\text{ per interval}|A point three intervals above zero represents 15.
+scale (in scale drawings)|The relationship between drawing measurements and actual measurements.|A map uses 1 cm for 4 km. What does 6 cm represent?|6(4)=24\text{ km}|Use the stated map scale to interpret the drawing.
+scale drawing|A drawing whose lengths are proportional to the corresponding actual lengths.|A 15 m room is drawn with a 5 cm side. Find the length represented by 1 cm.|15\div5=3\text{ m}|The scale is 1 cm to 3 m.
+scale factor|The multiplier relating corresponding lengths in similar figures.|An image enlarges a 6 cm side to 15 cm.|k=\frac{15}{6}=2.5|Multiply every original length by 2.5.
+scalene triangle|A triangle whose three side lengths are all different.|Classify a triangle with side lengths 6, 8, and 11.|6\ne8,\quad8\ne11,\quad6\ne11|All sides differ, so the triangle is scalene.
+scatterplot|A coordinate display of paired numerical observations.|Plot study time and quiz score pairs (1, 62), (2, 71), (3, 79).|(1,62),\ (2,71),\ (3,79)|Each point records two measurements for one observation.
+scientific notation|Writing a nonzero number as a coefficient of magnitude at least 1 and less than 10 times a power of ten.|Write 0.00072 in scientific notation.|0.00072=7.2\times10^{-4}|The negative exponent moves the decimal point four places left.
+sector|A region of a circle bounded by two radii and the connecting arc.|Find the area of a 60° sector in a circle of radius 6 cm.|A=\frac{60}{360}\pi(6)^2=6\pi\text{ cm}^2|The sector is one sixth of the whole circle.
+segment|A portion of a line bounded by two endpoints.|A segment on a number line goes from −5 to 4.|\ell=4-(-5)=9|Its length is 9 units.
+segment bisector|A line, ray, segment, or plane that passes through a segment's midpoint.|A segment has endpoints at 2 and 14 on a number line. Where must a bisector pass?|M=\frac{2+14}{2}=8|A bisector must pass through 8, but need not be perpendicular.
+sequence|An ordered list of terms following a stated indexing or rule.|A rule gives aₙ = 2n + 1. List its first four terms.|3,5,7,9|Use n = 1, 2, 3, and 4 in order.
+side|A boundary segment of a polygon, or a ray forming an angle.|An equilateral triangle has perimeter 33 cm. Find one side.|s=33\div3=11\text{ cm}|In this example, a side is one of the triangle's three boundary segments.
+Side-Angle-Angle (SAA)|A triangle congruence condition using two angles and a corresponding non-included side; also called AAS.|Two triangles match at angles 35° and 75° and at a side not between those angles.|180^\circ-35^\circ-75^\circ=70^\circ|The third angles also match, so the given side fixes the same triangle size.
+Side-Angle-Side (SAS)|A triangle congruence condition using two sides and their included angle.|Two triangles each have sides 6 and 9 with a 50° angle between them.|\triangle ABC\cong\triangle DEF|The matched angle must lie between the two matched sides.
+Side-Side-Side (SSS)|A triangle congruence condition using all three corresponding sides.|Two triangles each have side lengths 7, 10, and 12.|(7,10,12)\leftrightarrow(7,10,12)|The three matched lengths determine congruent triangles.
+significant digits|Digits indicating the precision of a measured value, starting at the first nonzero digit.|Count significant digits in the measurement 0.00450 m.|0.00450\text{ has }3\text{ significant digits}|Leading zeros are placeholders; the final zero records precision.
+similar|Having equal corresponding angles and proportional corresponding lengths.|Compare rectangles measuring 3 by 5 and 9 by 15.|\frac93=\frac{15}{5}=3|Both dimensions scale by the same factor, so the rectangles are similar.
+similarity ratio|The ratio of corresponding lengths in similar figures.|A small triangle's 8 cm side corresponds to a large triangle's 20 cm side.|8:20=2:5|State the order: small to large is 2 to 5.
+simple interest|Interest calculated only on the original principal.|Find simple interest on 600 dollars at 3% annually for 2 years.|I=Prt=600(0.03)(2)=36|The interest is 36 dollars; the total is 636 dollars.
+simplified|Written in a form with unnecessary complexity removed, while preserving value.|Compare 8x + 3x − 2 with its simplified form.|8x+3x-2=11x-2|Combining like terms produces the simpler equivalent expression.
+simplify|Rewrite an expression more compactly without changing its value.|Simplify 4(2n + 3) − 5n.|4(2n+3)-5n=8n+12-5n=3n+12|Distribute first, then combine the n-terms.
+simulation|A model using a repeatable process to imitate a real situation.|Use digits 0–2 as 'rain' and 3–9 as 'dry' to model a 30% rain chance.|P(\text{rain})=\frac3{10}|Repeated random digits imitate many days under the model.
+sine|For an acute angle in a right triangle, opposite-leg length divided by hypotenuse length.|An angle has opposite leg 7 and hypotenuse 25.|\sin\theta=\frac7{25}|Identify the opposite side relative to the selected angle.
+slant height|The height along a cone's surface or a pyramid's triangular face, rather than perpendicular to the base.|A right cone has radius 5 cm and vertical height 12 cm.|\ell=\sqrt{5^2+12^2}=13\text{ cm}|The slant height is 13 cm, longer than the vertical height.
+slide|An informal name for a translation.|Slide a point 4 units right and 3 units down.|(-1,6)\mapsto(3,3)|Every point of the figure moves by the same vector.
+slope|The vertical change divided by horizontal change for a nonvertical line.|A ramp rises 3 meters over a horizontal distance of 8 meters.|m=\frac{\text{rise}}{\text{run}}=\frac38|The ramp rises 3/8 meter for each horizontal meter.
+solid|A three-dimensional figure with length, width, and height.|A storage box measures 2 by 5 by 7 units.|V=2(5)(7)=70|Unlike a flat rectangle, the box occupies volume.
+solution of a system|Values that satisfy every equation or inequality in a system at the same time.|Solve x + y = 9 together with x − y = 3.|2x=12\quad\Rightarrow\quad(x,y)=(6,3)|The pair works in both original equations.
+solutions of an equation or inequality|All variable values that make the stated relation true.|Find all real solutions of 2x + 1 ≤ 9.|2x\le8\quad\Rightarrow\quad x\le4|Every real number at or below 4 satisfies the inequality.
+solve|Find all values that make an equation or inequality true.|Solve 5x − 7 = 28.|5x=35\quad\Rightarrow\quad x=7|Substituting 7 gives 35 − 7 = 28.
+sphere|A round three-dimensional surface whose points are equally distant from its center; the enclosed solid is also called a sphere.|Find the volume enclosed by a sphere of radius 3 cm.|V=\frac43\pi(3)^3=36\pi\text{ cm}^3|The radius is measured from the center to the surface.
+square|A quadrilateral with four equal sides and four right angles.|A square has area 81 cm². Find its side length.|s=\sqrt{81}=9\text{ cm}|Use the positive length.
+square centimeter|The area of a square with sides one centimeter long.|A label measures 3 cm by 8 cm.|A=3(8)=24\text{ cm}^2|Twenty-four unit squares cover the label.
+square inch|The area of a square with sides one inch long.|A card measures 4 inches by 7 inches.|A=4(7)=28\text{ in}^2|The unit describes area, not length.
+square root|A number that, when squared, produces the given number.|Find both real square roots of 81.|9^2=(-9)^2=81|The two square roots are 9 and −9; √81 denotes only 9.
+squared|Raised to the second power.|Calculate eleven squared.|11^2=11(11)=121|Squaring multiplies a number by itself.
+standard form|A conventional representation whose meaning depends on context, such as Ax + By = C for a line.|Rewrite y = 2x + 5 in standard linear-equation form.|2x-y=-5|This example uses the linear-equation convention; number and polynomial contexts use others.
+stem-and-leaf diagram|A data display splitting each numeral into a leading stem and a final leaf.|Display 32, 35, 38, 41 using tens as stems.|3:2,5,8\qquad4:1|The key '3 with leaf 2 means 32' explains the place values.
+step function|A function constant on intervals with jumps between them.|Shipping costs 4 dollars up to 1 kg and 7 dollars above 1 kg through 2 kg.|C(w)=\begin{cases}4&0<w\le1\\7&1<w\le2\end{cases}|The cost is flat within each weight band and jumps at the boundary.
+straight angle|An angle measuring 180°.|A pointer makes half a full turn.|\frac12(360^\circ)=180^\circ|Its initial and final rays point in opposite directions.
+substitute|Replace a variable or expression with an equal value or expression.|Use a = 4 and b = −2 in 3a + b.|3(4)+(-2)=10|Replace each letter before calculating.
+subtraction|Finding a difference or removing a quantity from another.|A library starts with 47 reserved books and lends out 19.|47-19=28|Twenty-eight reserved books remain.
+sum|The result of addition.|A class collects 26 cans on Monday and 37 on Tuesday.|26+37=63|The sum is 63 cans.
+supplementary angles|Two angles whose measures add to 180°.|One supplementary angle is 117°. Find the other.|180^\circ-117^\circ=63^\circ|The two angles total a straight angle.
+surface area (SA)|The total area of a solid's exterior surfaces.|Find the surface area of a box measuring 2 by 3 by 5 cm.|SA=2(2\cdot3+2\cdot5+3\cdot5)=62\text{ cm}^2|Count both faces of each of the three rectangular sizes.
+survey|A method of collecting responses to questions from a group.|Thirty students answer a favorite-club question; 12 choose art.|\frac{12}{30}=40\%|The result describes these respondents; generalization depends on sampling.
+symmetry|A figure's property of remaining unchanged under a transformation such as reflection or rotation.|Turn a square one quarter turn about its center.|\theta=90^\circ|The square occupies the same region after the turn.
+system of linear equations|Two or more linear equations considered together.|Solve y = 2x and x + y = 12.|x+2x=12\quad\Rightarrow\quad(x,y)=(4,8)|The solution is the point where the two lines intersect.
+T-table|A two-column input-output table organized like the letter T.|Make a table for y = 4x − 1 at x = 0, 1, 2.|\begin{array}{cc}x&y\\0&-1\\1&3\\2&7\end{array}|Each row pairs one input with its output.
+tally|A running count recorded as observations occur.|Count each bicycle passing a gate during five minutes.|n=13|A tally increases by one for each bicycle.
+tally marks|Short counting strokes usually grouped in fives.|Record a count of 17 using groups of five.|17=5+5+5+2|Make three complete groups of five and two extra strokes.
+tangent line|A line touching a circle at exactly one point, perpendicular to the radius there.|A radius reaches the touching point of a tangent line.|r\perp\ell|The radius and tangent form a 90-degree angle at contact.
+tangent ratio|For an acute angle in a right triangle, opposite-leg length divided by adjacent-leg length.|An angle has opposite leg 5 and adjacent leg 12.|\tan\theta=\frac5{12}|The hypotenuse is not used in this ratio.
+term|A part of a sum separated by addition or subtraction, including its sign.|Identify the terms in 7x² − 4x + 6.|7x^2,\quad-4x,\quad6|The negative sign belongs to the middle term.
+terminating decimal|A decimal whose nonzero digits end after finitely many places.|Write 7/16 as a decimal.|\frac7{16}=0.4375|The decimal ends after four places.
+tessellation|A covering of a flat surface by shapes with no gaps or overlaps.|Fit six equilateral triangles around one vertex.|6(60^\circ)=360^\circ|The angles fill the space exactly, allowing a repeating tiling.
+theoretical probability|Probability calculated from a model rather than trial results.|A fair twelve-sided die has faces 1–12. Find the probability of a multiple of 4.|P=\frac3{12}=\frac14|The favorable faces are 4, 8, and 12.
+transformation|A rule that maps points of a figure to new points.|Apply the rule (x, y) → (x + 2, y − 5) to (3, 7).|(3,7)\mapsto(5,2)|This transformation is a translation.
+translation|A transformation moving every point by the same distance in the same direction.|Move a triangle 6 units left and 2 units up.|(x,y)\mapsto(x-6,y+2)|The shape, size, and orientation stay unchanged.
+transversal|A line crossing two or more coplanar lines at distinct points.|A slanted line crosses two parallel horizontal lines.|\ell_1\parallel\ell_2|The crossing line creates angle pairs such as corresponding and alternate interior angles.
+trapezoid|A quadrilateral with at least one pair of parallel sides; some courses require exactly one pair.|A trapezoid has parallel bases 5 cm and 11 cm, with height 4 cm.|A=\frac12(5+11)(4)=32\text{ cm}^2|The area formula works under either definition convention.
+tree diagram|A branching display of successive choices or outcomes.|Choose tea or juice, then a small or large cup.|2\cdot2=4|The four leaves are tea-small, tea-large, juice-small, and juice-large.
+trend|A general direction or pattern in data.|Weekly attendance is 22, 25, 24, 29, 31.|31-22=9|Despite one decrease, the overall trend is upward.
+trend line|A line used to summarize an approximately linear pattern in a scatterplot.|A fitted model predicts score s from practice hours h.|s=6h+50|At h = 4, the trend line predicts a score of 74; individual scores may differ.
+trial|One repetition of an experiment.|A student tosses a paper cup 40 times.|n=40\text{ trials}|Each toss and recorded landing is one trial.
+triangle|A polygon with three sides.|Find a missing angle when the other two are 54° and 67°.|180^\circ-54^\circ-67^\circ=59^\circ|The three interior angles total 180°.
+trigonometric ratios|Ratios of right-triangle side lengths associated with an acute angle.|For an angle with opposite 8, adjacent 15, and hypotenuse 17, give three ratios.|\sin\theta=\frac8{17},\quad\cos\theta=\frac{15}{17},\quad\tan\theta=\frac8{15}|Choose the side relationship for the requested ratio.
+trinomial|A polynomial with exactly three nonzero terms after combining like terms.|Count the terms in x² + 6x + 8.|x^2+6x+8|The three terms make it a trinomial.
+turn|An informal name for a rotation.|Turn a point (2, −5) halfway around the origin.|(2,-5)\mapsto(-2,5)|A half turn is a 180-degree rotation.
+unfair game|A game giving unequal expected advantages under its rules.|Two players stake equal amounts; A wins on die faces 1–4 and B on 5–6.|P(A)=\frac46>\frac26=P(B)|With equal payouts, A has the advantage.
+unit|A standard amount used to express a measurement, or one whole in a counting context.|A pencil length is recorded as 16 cm.|L=16\text{ cm}|The number is 16 and the measurement unit is centimeter.
+unit fraction|A fraction with numerator 1 and a positive integer denominator.|Divide a whole into 9 equal pieces. Name one piece.|\frac19|One ninth is a unit fraction.
+unit price|The cost of one item or one unit of measure.|A pack of 8 markers costs 10.40 dollars.|10.40\div8=1.30|The unit price is 1.30 dollars per marker.
+unit rate|A rate expressed for one unit of its denominator quantity.|A cyclist travels 42 km in 3 hours.|42\div3=14\text{ km/h}|The unit rate is 14 kilometers per hour.
+unlike denominators|Different denominators in two or more fractions.|Prepare 2/3 and 3/5 for addition.|\frac23=\frac{10}{15},\quad\frac35=\frac9{15}|The original thirds and fifths become matching fifteenths.
+upper quartile|The third quartile, marking the lower edge of the highest quarter under a stated convention.|Using median-of-halves, find Q3 for 2, 4, 6, 8, 10, 12, 14, 16.|Q_3=\frac{12+14}{2}=13|The upper half is 10, 12, 14, 16; its median is 13.
+variable|A symbol representing an unknown or changing quantity.|A delivery has n identical boxes weighing 6 kg each.|W=6n|The letter n represents the number of boxes.
+Venn diagram|A diagram of overlapping regions used to show set relationships.|Of 20 students, 9 play chess, 8 code, and 3 do both. How many do at least one?|9+8-3=14|Subtract the overlap once so those students are not counted twice.
+vertex|A meeting point of sides, edges, or rays; a parabola's turning point also has this name.|Name the vertex of angle RST.|\angle RST\quad\Rightarrow\quad S|The shared endpoint is the middle letter.
+vertical angles|Opposite angles formed by two intersecting lines.|One angle at an intersection measures 73°. Find its vertically opposite angle.|\theta=73^\circ|Vertical angles have equal measures.
+vertical axis|The up-and-down reference axis of a graph, usually the y-axis.|A point lies on the vertical axis with height −6.|P=(0,-6)|Every point on the y-axis has x-coordinate zero.
+volume|The amount of three-dimensional space occupied or enclosed, measured in cubic units.|A box is 4 cm wide, 5 cm deep, and 7 cm tall.|V=4(5)(7)=140\text{ cm}^3|Multiply all three dimensions to count unit cubes.
+weight|The force of gravity on an object, often reported in customary weight units in everyday contexts.|A parcel's reported weight is 2 pounds 8 ounces. Express it in ounces.|2(16)+8=40\text{ oz}|Convert pounds to ounces before adding.
+whole number|One of 0, 1, 2, 3, and so on.|Which of −2, 0, 3/2, and 7 are whole numbers?|\{0,7\}|Whole numbers include zero but exclude negative integers and noninteger fractions.
+word form|Writing a number using words rather than digits.|Write 3,408 in words.|3408|The word form is 'three thousand four hundred eight'.
+x-axis|The horizontal axis in the usual coordinate plane.|Find where a point on the x-axis can have a nonzero coordinate.|P=(7,0)|All points on the x-axis have y-coordinate zero.
+x-coordinate|The first coordinate in an ordered pair, measuring horizontal position.|Read the horizontal coordinate of (−8, 3).|x=-8|The point is eight units left of the origin.
+x-intercept|A point where a graph crosses or touches the x-axis; also the x-value of that point.|Find the x-intercept of y = 3x − 12.|0=3x-12\quad\Rightarrow\quad x=4|The intercept point is (4, 0).
+y-axis|The vertical axis in the usual coordinate plane.|Give a point five units above the origin on the y-axis.|P=(0,5)|Every point on this axis has x-coordinate zero.
+y-coordinate|The second coordinate in an ordered pair, measuring vertical position.|Read the vertical coordinate of (6, −9).|y=-9|The point is nine units below the x-axis.
+y-intercept|A point where a graph crosses or touches the y-axis; also its y-value.|Find the y-intercept of y = −2x + 7.|x=0\quad\Rightarrow\quad y=7|The intercept point is (0, 7).
+yard|A customary length unit equal to three feet or thirty-six inches.|Convert 2.5 yards to feet.|2.5(3)=7.5\text{ ft}|Multiply yards by 3.
+zero pair|Two opposite quantities or counters that combine to zero.|Pair one +1 counter with one −1 counter.|1+(-1)=0|Adding or removing a zero pair does not change the total value.
+Zero Property of Addition|Adding zero leaves a number unchanged; also called the additive identity property.|A score of −16 receives no change.|-16+0=-16|Zero is the identity for addition.
